@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="992.68701"
+   height="687.59894"
+   viewBox="0 0 992.68704 687.59894"
+   version="1.1"
+   id="svg245"
+   sodipodi:docname="rwa-taxonomy.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview245"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.93036072"
+     inkscape:cx="467.02316"
+     inkscape:cy="288.06031"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg245" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="watermark_linear"
+       x1="50.181801"
+       y1="56"
+       x2="3.4974699"
+       y2="-11.9045"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0066FF"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#66CCFF"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-62,-48.901035)"
+     id="page1">
+    <g
+       transform="translate(62.5,324)"
+       id="shape1">
+      <path
+         fill="#d09c81"
+         d="M 100,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path2" />
+      <text
+         xml:space="preserve"
+         id="text2"><tspan
+           x="31.766663"
+           y="32.941654"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan2"
+           textLength="36.449997"
+           lengthAdjust="spacing">RWA</tspan></text>
+    </g>
+    <g
+       transform="translate(209.5,194)"
+       id="shape2">
+      <path
+         fill="#d0b982"
+         d="M 100,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path3" />
+      <text
+         xml:space="preserve"
+         id="text4"><tspan
+           x="30.366669"
+           y="22.783356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan3"
+           textLength="39.266663"
+           lengthAdjust="spacing">Υλικά</tspan><tspan
+           x="31.766663"
+           y="43.100021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan4"
+           textLength="36.449997"
+           lengthAdjust="spacing">RWA</tspan></text>
+    </g>
+    <g
+       transform="translate(209.5,499)"
+       id="shape3">
+      <path
+         fill="#d0b982"
+         d="M 100,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path4" />
+      <text
+         xml:space="preserve"
+         id="text6"><tspan
+           x="31.766663"
+           y="22.783356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan5"
+           textLength="36.449997"
+           lengthAdjust="spacing">Άυλα</tspan><tspan
+           x="31.766663"
+           y="43.100021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan6"
+           textLength="36.449997"
+           lengthAdjust="spacing">RWA</tspan></text>
+    </g>
+    <g
+       transform="translate(358.5,64)"
+       id="shape4">
+      <path
+         fill="#81bbb1"
+         d="M 144,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path6" />
+      <text
+         xml:space="preserve"
+         id="text7"><tspan
+           x="44.766663"
+           y="32.941654"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan7"
+           textLength="54.449997"
+           lengthAdjust="spacing">Ακίνητα</tspan></text>
+    </g>
+    <g
+       transform="translate(358.5,194)"
+       id="shape5">
+      <path
+         fill="#81bbb1"
+         d="M 144,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path7" />
+      <text
+         xml:space="preserve"
+         id="text8"><tspan
+           x="22.800003"
+           y="32.941654"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan8"
+           textLength="98.383331"
+           lengthAdjust="spacing">Εμπορεύματα</tspan></text>
+    </g>
+    <g
+       transform="translate(358.5,324)"
+       id="shape6">
+      <path
+         fill="#81bbb1"
+         d="M 144,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path8" />
+      <text
+         xml:space="preserve"
+         id="text10"><tspan
+           x="33.649994"
+           y="22.783356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan9"
+           textLength="81.133347"
+           lengthAdjust="spacing">Συλλεκτικά </tspan><tspan
+           x="32.300003"
+           y="43.100021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan10"
+           textLength="79.399994"
+           lengthAdjust="spacing">αντικείμενα</tspan></text>
+    </g>
+    <g
+       transform="translate(356.5,454)"
+       id="shape7">
+      <path
+         fill="#81bbb1"
+         d="M 186,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path10" />
+      <text
+         xml:space="preserve"
+         id="text12"><tspan
+           x="21.100006"
+           y="22.783356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan11"
+           textLength="148.23332"
+           lengthAdjust="spacing">Χρηματοοικονομικές </tspan><tspan
+           x="54.816666"
+           y="43.100021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan12"
+           textLength="76.350006"
+           lengthAdjust="spacing">απαιτήσεις</tspan></text>
+    </g>
+    <g
+       transform="translate(356.5,596.5)"
+       id="shape8">
+      <path
+         fill="#81bbb1"
+         d="M 186,69 V 0 H 0 v 69 z"
+         stroke="#101843"
+         id="path12" />
+      <text
+         xml:space="preserve"
+         id="text14"><tspan
+           x="11.800003"
+           y="27.283356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan13"
+           textLength="166.84999"
+           lengthAdjust="spacing">Μη χρηματοοικονομικά </tspan><tspan
+           x="53.316666"
+           y="47.600021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan14"
+           textLength="79.350006"
+           lengthAdjust="spacing">δικαιώματα</tspan></text>
+    </g>
+    <g
+       transform="translate(691.5,64)"
+       id="shape9">
+      <path
+         fill="#b5d5b8"
+         d="M 144,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path14" />
+      <text
+         xml:space="preserve"
+         id="text15"><tspan
+           x="50.233337"
+           y="32.941654"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan15"
+           textLength="43.516663"
+           lengthAdjust="spacing">Χρέος</tspan></text>
+    </g>
+    <g
+       transform="translate(162.5,354)"
+       id="shape10">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 27.5 V -130 H 41"
+         fill="none"
+         id="path15" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 41,-133 5,3 -5,3 z"
+         id="path16" />
+    </g>
+    <g
+       transform="translate(162.5,354)"
+       id="shape11">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 27.5 V 175 H 41"
+         fill="none"
+         id="path17" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 41,172 5,3 -5,3 z"
+         id="path18" />
+    </g>
+    <g
+       transform="translate(309.5,224)"
+       id="shape12">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 27.5 V -130 H 43"
+         fill="none"
+         id="path19" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 43,-133 5,3 -5,3 z"
+         id="path20" />
+    </g>
+    <g
+       transform="translate(309.5,224)"
+       id="shape13">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 43"
+         fill="none"
+         id="path21" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 43,-3 5,3 -5,3 z"
+         id="path22" />
+    </g>
+    <g
+       transform="translate(309.5,224)"
+       id="shape14">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 27.5 V 130 H 43"
+         fill="none"
+         id="path23" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 43,127 5,3 -5,3 z"
+         id="path24" />
+    </g>
+    <g
+       transform="translate(309.5,529)"
+       id="shape15">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 27.5 V -45 H 41"
+         fill="none"
+         id="path25" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 41,-48 5,3 -5,3 z"
+         id="path26" />
+    </g>
+    <g
+       transform="translate(309.5,529)"
+       id="shape16">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 27.5 V 101 H 41"
+         fill="none"
+         id="path27" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 41,98 5,3 -5,3 z"
+         id="path28" />
+    </g>
+    <g
+       transform="translate(691.5,200.5)"
+       id="shape17">
+      <path
+         fill="#b5d5b8"
+         d="M 144,72 V 0 H 0 v 72 z"
+         stroke="#101843"
+         id="path29" />
+      <text
+         xml:space="preserve"
+         id="text30"><tspan
+           x="4.8499985"
+           y="28.783356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan29"
+           textLength="136"
+           lengthAdjust="spacing">Αμοιβαία κεφάλαια </tspan><tspan
+           x="19.566673"
+           y="49.100021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan30"
+           textLength="103.16666"
+           lengthAdjust="spacing">χρηματαγοράς</tspan></text>
+    </g>
+    <g
+       transform="translate(691.5,310)"
+       id="shape18">
+      <path
+         fill="#b5d5b8"
+         d="M 144,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path30" />
+      <text
+         xml:space="preserve"
+         id="text32"><tspan
+           x="37.083328"
+           y="22.783356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan31"
+           textLength="74.266678"
+           lengthAdjust="spacing">Μετοχικές </tspan><tspan
+           x="31"
+           y="43.100021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan32"
+           textLength="81.983337"
+           lengthAdjust="spacing">συμμετοχές</tspan></text>
+    </g>
+    <g
+       transform="translate(691.5,403)"
+       id="shape19">
+      <path
+         fill="#b5d5b8"
+         d="M 144,69 V 0 H 0 v 69 z"
+         stroke="#101843"
+         id="path32" />
+      <text
+         xml:space="preserve"
+         id="text35"><tspan
+           x="27.183334"
+           y="17.125006"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan33"
+           textLength="89.616669"
+           lengthAdjust="spacing">Ενδεχόμενα/</tspan><tspan
+           x="37.233337"
+           y="37.441673"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan34"
+           textLength="73.96666"
+           lengthAdjust="spacing">δομημένα </tspan><tspan
+           x="39.583328"
+           y="57.758339"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan35"
+           textLength="64.816666"
+           lengthAdjust="spacing">προϊόντα</tspan></text>
+    </g>
+    <g
+       transform="translate(691.5,545)"
+       id="shape20">
+      <path
+         fill="#b5d5b8"
+         d="M 144,60 V 0 H 0 v 60 z"
+         stroke="#101843"
+         id="path35" />
+      <text
+         xml:space="preserve"
+         id="text37"><tspan
+           x="31.666672"
+           y="22.783356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan36"
+           textLength="85.116669"
+           lengthAdjust="spacing">Πνευματική </tspan><tspan
+           x="36.600006"
+           y="43.100021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan37"
+           textLength="70.783325"
+           lengthAdjust="spacing">ιδιοκτησία</tspan></text>
+    </g>
+    <g
+       transform="translate(691.5,643)"
+       id="shape21">
+      <path
+         fill="#b5d5b8"
+         d="M 144,93 V 0 H 0 v 93 z"
+         stroke="#101843"
+         id="path37" />
+      <text
+         xml:space="preserve"
+         id="text39"><tspan
+           x="17.316666"
+           y="39.283356"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan38"
+           textLength="113.81667"
+           lengthAdjust="spacing">Περιβαλλοντικά </tspan><tspan
+           x="32.316666"
+           y="59.600021"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan39"
+           textLength="79.350006"
+           lengthAdjust="spacing">δικαιώματα</tspan></text>
+    </g>
+    <g
+       transform="translate(542.5,484)"
+       id="shape22">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 120.5 V -390 H 143"
+         fill="none"
+         id="path39" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 143,-393 5,3 -5,3 z"
+         id="path40" />
+    </g>
+    <g
+       transform="translate(542.5,484)"
+       id="shape23">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 120.5 V -247 H 143"
+         fill="none"
+         id="path41" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 143,-250 5,3 -5,3 z"
+         id="path42" />
+    </g>
+    <g
+       transform="translate(542.5,484)"
+       id="shape24">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 120.5 V -144 H 143"
+         fill="none"
+         id="path43" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 143,-147 5,3 -5,3 z"
+         id="path44" />
+    </g>
+    <g
+       transform="translate(542.5,484)"
+       id="shape25">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 120.5 V -46.5 H 143"
+         fill="none"
+         id="path45" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 143,-49.5 5,3 -5,3 z"
+         id="path46" />
+    </g>
+    <g
+       transform="translate(542.5,631)"
+       id="shape26">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 120.5 V -56 H 143"
+         fill="none"
+         id="path47" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 143,-59 5,3 -5,3 z"
+         id="path48" />
+    </g>
+    <g
+       transform="translate(542.5,631)"
+       id="shape27">
+      <path
+         stroke="#191919"
+         d="M 0,0 H 120.5 V 58 H 143"
+         fill="none"
+         id="path49" />
+      <path
+         stroke-linecap="round"
+         stroke-width="1"
+         fill="#191919"
+         stroke="#191919"
+         d="m 143,55 5,3 -5,3 z"
+         id="path50" />
+    </g>
+    <g
+       transform="translate(843,32)"
+       id="shape28">
+      <text
+         xml:space="preserve"
+         id="text61"><tspan
+           x="4.3666687"
+           y="28.649998"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan50"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="4.3666687"
+           y="50.083332"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan51"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="28.41666"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan52"
+           textLength="121.01666"
+           lengthAdjust="spacing">Κρατικά ομόλογα</tspan><tspan
+           x="4.3666687"
+           y="71.516663"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan53"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="49.849995"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan54"
+           textLength="124.33333"
+           lengthAdjust="spacing">Εταιρικά ομόλογα</tspan><tspan
+           x="4.3666687"
+           y="92.949997"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan55"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="71.283325"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan56"
+           textLength="122.18333"
+           lengthAdjust="spacing">Ιδιωτική πίστωση</tspan><tspan
+           x="4.3666687"
+           y="114.38333"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan57"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="92.71666"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan58"
+           textLength="77.766663"
+           lengthAdjust="spacing">Απαιτήσεις</tspan><tspan
+           x="4.3666687"
+           y="135.81667"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan59"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="114.14999"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan60"
+           textLength="182.14999"
+           lengthAdjust="spacing">Τιτλοποιήσεις (ABS/MBS)</tspan><tspan
+           x="19.366669"
+           y="135.58333"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan61"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+    <g
+       transform="translate(835.5,202.5)"
+       id="shape29">
+      <text
+         xml:space="preserve"
+         id="text65"><tspan
+           x="4.3666687"
+           y="28.016647"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan62"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="4.3666687"
+           y="49.449982"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan63"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="27.78331"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan64"
+           textLength="198.36667"
+           lengthAdjust="spacing">Ταμεία εντόκων γραμματίων</tspan><tspan
+           x="19.366669"
+           y="49.216644"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan65"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+    <g
+       transform="translate(835.5,262.5)"
+       id="shape30">
+      <text
+         xml:space="preserve"
+         id="text73"><tspan
+           x="4.3666687"
+           y="49.083347"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan66"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="4.3666687"
+           y="70.516678"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan67"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="48.85001"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan68"
+           textLength="152.39999"
+           lengthAdjust="spacing">Δημόσιες συμμετοχές</tspan><tspan
+           x="4.3666687"
+           y="91.950012"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan69"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="70.28334"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan70"
+           textLength="148.31667"
+           lengthAdjust="spacing">Ιδιωτικές συμμετοχές</tspan><tspan
+           x="4.3666687"
+           y="113.38335"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan71"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="91.716675"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan72"
+           textLength="199.95"
+           lengthAdjust="spacing">Επιχειρηματικές συμμετοχές</tspan><tspan
+           x="19.366669"
+           y="113.15001"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan73"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+    <g
+       transform="translate(835.5,402)"
+       id="shape31">
+      <text
+         xml:space="preserve"
+         id="text77"><tspan
+           x="4.3666687"
+           y="28.016647"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan74"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="4.3666687"
+           y="49.449982"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan75"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="27.78331"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan76"
+           textLength="132.53333"
+           lengthAdjust="spacing">Ασφαλιστικοί τίτλοι</tspan><tspan
+           x="19.366669"
+           y="49.216644"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan77"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+    <g
+       transform="translate(835.5,535)"
+       id="shape32">
+      <text
+         xml:space="preserve"
+         id="text81"><tspan
+           x="4.3666687"
+           y="28.016647"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan78"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="4.3666687"
+           y="49.449982"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan79"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="27.78331"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan80"
+           textLength="129.16667"
+           lengthAdjust="spacing">Δικαιώματα Media</tspan><tspan
+           x="19.366669"
+           y="49.216644"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan81"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+    <g
+       transform="translate(835.5,654.5)"
+       id="shape33">
+      <text
+         xml:space="preserve"
+         id="text85"><tspan
+           x="4.3666687"
+           y="28.016647"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan82"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="4.3666687"
+           y="49.449982"
+           style="font-weight:normal;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan83"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="19.366669"
+           y="27.78331"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan84"
+           textLength="180.7"
+           lengthAdjust="spacing">Πιστωτικά μόρια άνθρακα</tspan><tspan
+           x="19.366669"
+           y="49.216644"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan85"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+    <g
+       transform="translate(502.5,319)"
+       id="shape34">
+      <text
+         xml:space="preserve"
+         id="text91"><tspan
+           x="3.8000031"
+           y="18.816666"
+           style="font-weight:normal;font-size:13.3333px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan86"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="3.8000031"
+           y="38.649994"
+           style="font-weight:normal;font-size:13.3333px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan87"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="16.800003"
+           y="18.350006"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan88"
+           textLength="89.816666"
+           lengthAdjust="spacing">Έργα τέχνης</tspan><tspan
+           x="3.8000031"
+           y="58.483337"
+           style="font-weight:normal;font-size:13.3333px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan89"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="16.800003"
+           y="38.183334"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan90"
+           textLength="121.34999"
+           lengthAdjust="spacing">Είδη πολυτελείας</tspan><tspan
+           x="16.800003"
+           y="58.016663"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan91"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+    <g
+       transform="translate(502.5,189)"
+       id="shape35">
+      <text
+         xml:space="preserve"
+         id="text95"><tspan
+           x="3.8000031"
+           y="28.733316"
+           style="font-weight:normal;font-size:13.3333px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan92"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="3.8000031"
+           y="48.566643"
+           style="font-weight:normal;font-size:13.3333px;font-family:'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft YaHei';fill:#191919"
+           id="tspan93"
+           textLength="0"
+           lengthAdjust="spacing">•</tspan><tspan
+           x="16.800003"
+           y="28.266657"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan94"
+           textLength="126"
+           lengthAdjust="spacing">Πολύτιμα μέταλλα</tspan><tspan
+           x="16.800003"
+           y="48.099983"
+           style="font-weight:normal;font-size:16px;font-family:Arial;fill:#191919"
+           id="tspan95"
+           textLength="13.349991"
+           lengthAdjust="spacing">...</tspan></text>
+    </g>
+  </g>
+</svg>

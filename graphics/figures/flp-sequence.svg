@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="145.18336mm"
+   height="16.092245mm"
+   viewBox="0 0 548.72454 60.821085"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect24"
+         width="44.999748"
+         height="77.937294"
+         x="251.53429"
+         y="222.73541" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect5-4"
+         width="20"
+         height="200"
+         x="530"
+         y="595" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-0-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-15-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-54-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-15-2-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-54-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-15-2-0-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-54-9-9-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1-4-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-0-8-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-15-2-0-6-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-54-9-9-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-15-2-0-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-54-9-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-15-2-03"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-54-9-6" />
+    </marker>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97051px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.28467;stroke-dasharray:none;stroke-opacity:1"
+     x="43.932446"
+     y="58.478031"
+     id="text5-9-44-52-4-96"><tspan
+       id="tspan5-4-4-5-87-3"
+       x="43.932446"
+       y="58.478031"
+       style="font-size:9.97051px;stroke-width:1.28467">αμφίρροπη</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97051px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.28467;stroke-dasharray:none;stroke-opacity:1"
+     x="100.62909"
+     y="6.9594302"
+     id="text5-9-44-52-4-96-5"><tspan
+       id="tspan5-4-4-5-87-3-3"
+       x="100.62909"
+       y="6.9594302"
+       style="font-size:9.97051px;stroke-width:1.28467">ακολουθία παραδόσεων μηνυμάτων</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97051px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.28467;stroke-dasharray:none;stroke-opacity:1"
+     x="253.37126"
+     y="58.478031"
+     id="text5-9-44-52-4-9-9"><tspan
+       id="tspan5-4-4-5-87-77-8"
+       x="253.37126"
+       y="58.478031"
+       style="font-size:9.97051px;stroke-width:1.28467">αμφίρροπη</tspan></text>
+  <g
+     id="g2-54-2-3-4"
+     transform="matrix(0.48853999,0,0,0.48853999,-57.513515,-160.61588)"
+     style="display:inline">
+    <circle
+       style="fill:#e8d5a8;fill-opacity:1;stroke:#4a380a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-7-5-5-7"
+       cx="251.15245"
+       cy="395.15109"
+       r="24.369249" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:24px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;fill:#4a380a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="234.72089"
+       y="400.56909"
+       id="text1-6-4-6-63"><tspan
+         id="tspan1-56-7-2-1"
+         x="234.72089"
+         y="400.56909"
+         style="font-size:24px;fill:#4a380a;fill-opacity:1;stroke:none">C<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2-7">i-1</tspan></tspan></text>
+  </g>
+  <g
+     id="g2-54-2-3-9-1"
+     transform="matrix(0.48853999,0,0,0.48853999,151.92527,-160.61588)"
+     style="display:inline">
+    <circle
+       style="fill:#e8d5a8;fill-opacity:1;stroke:#4a380a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-7-5-5-20-8"
+       cx="251.15245"
+       cy="395.15109"
+       r="24.369249" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:24px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#4a380a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="240.37587"
+       y="400.56909"
+       id="text1-6-4-6-23-5"><tspan
+         id="tspan1-56-7-2-7-9"
+         x="240.37587"
+         y="400.56909"
+         style="font-size:24px;fill:#4a380a;fill-opacity:1;stroke:none">C<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2-5-7">i</tspan></tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97051px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.28467;stroke-dasharray:none;stroke-opacity:1"
+     x="462.99911"
+     y="58.478031"
+     id="text5-9-44-52-4-9-9-6"><tspan
+       id="tspan5-4-4-5-87-77-8-2"
+       x="462.99911"
+       y="58.478031"
+       style="font-size:9.97051px;stroke-width:1.28467">αμφίρροπη</tspan></text>
+  <g
+     id="g2-54-2-3-9-1-6"
+     transform="matrix(0.48853999,0,0,0.48853999,361.55319,-160.589)"
+     style="display:inline">
+    <circle
+       style="fill:#e8d5a8;fill-opacity:1;stroke:#4a380a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="path1-7-5-5-20-8-1"
+       cx="251.15245"
+       cy="395.15109"
+       r="24.369249" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:24px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#4a380a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="233.20767"
+       y="400.56909"
+       id="text1-6-4-6-23-5-8"><tspan
+         id="tspan1-56-7-2-7-9-7"
+         x="233.20767"
+         y="400.56909"
+         style="font-size:24px;fill:#4a380a;fill-opacity:1;stroke:none">C<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2-5-7-9">i+1</tspan></tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-1-4)"
+     d="m -11.030316,444.60895 c 10.99932561,-10.89985 21.998649,-21.7997 33.826859,-14.79561 11.82821,7.00408 24.485304,31.9121 38.580522,29.57049 14.095218,-2.3416 29.628539,-31.93281 43.586995,-31.68415 13.95845,0.24867 26.34201,30.33722 39.27679,31.76704 12.93477,1.42983 26.42073,-25.79905 37.73711,-30.59623 11.31638,-4.79718 20.46313,12.83735 32.59389,19.19905 12.13076,6.36171 27.24546,1.45057 42.36022,-3.46059"
+     id="path3-2-6"
+     transform="matrix(0.67980307,0,0,0.67980307,84.588305,-269.81528)" />
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-1-4-1)"
+     d="m -11.030316,444.60895 c 10.99932561,-10.89985 21.998649,-21.7997 33.826859,-14.79561 11.82821,7.00408 24.485304,31.9121 38.580522,29.57049 14.095218,-2.3416 29.628539,-31.93281 43.586995,-31.68415 13.95845,0.24867 26.34201,30.33722 39.27679,31.76704 12.93477,1.42983 26.42073,-25.79905 37.73711,-30.59623 11.31638,-4.79718 20.46313,12.83735 32.59389,19.19905 12.13076,6.36171 27.24546,1.45057 42.36022,-3.46059"
+     id="path3-2-6-9"
+     transform="matrix(0.67980307,0,0,0.67980307,294.02707,-269.81529)" />
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-15-2)"
+     d="m 203.6529,444.60895 c 6.43471,-10.18815 12.86942,-20.37628 17.36943,-15.62862 4.50001,4.74767 7.06532,24.43117 11.2307,29.57619 4.16537,5.14501 9.93081,-4.24845 14.31066,-8.99613 4.37986,-4.74767 7.37412,-4.84956 10.36838,-4.95144"
+     id="path3-69-4"
+     transform="matrix(0.67980307,0,0,0.67980307,-125.21826,-269.81529)" />
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.51181;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle-15-2-03)"
+     d="m 203.6529,444.60895 c 6.43471,-10.18815 12.86942,-20.37628 17.36943,-15.62862 4.50001,4.74767 7.06532,24.43117 11.2307,29.57619 4.16537,5.14501 9.93081,-4.24845 14.31066,-8.99613 4.37986,-4.74767 7.37412,-4.84956 10.36838,-4.95144"
+     id="path3-69-4-6"
+     transform="matrix(0.67980307,0,0,0.67980307,357.71269,-269.78841)" />
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.13386;stroke-dasharray:2.26772, 1.13386;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-15-2-0)"
+     d="m 213.70297,444.60895 c 14.40971,0 28.8194,0 43.2291,0"
+     id="path3-69-4-0"
+     transform="matrix(0.67980307,0,0,0.67980307,96.310505,-297.59527)" />
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.13386;stroke-dasharray:2.26772, 1.13386;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-15-2-0-6)"
+     d="m 213.70297,444.60895 c 14.40971,0 28.8194,0 43.2291,0"
+     id="path3-69-4-0-9"
+     transform="matrix(-0.67980307,0,0,0.67980307,243.18583,-297.59527)" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.97051px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.28467;stroke-dasharray:none;stroke-opacity:1"
+     x="308.55453"
+     y="6.959415"
+     id="text5-9-44-52-4-96-5-9"><tspan
+       id="tspan5-4-4-5-87-3-3-4"
+       x="308.55453"
+       y="6.959415"
+       style="font-size:9.97051px;stroke-width:1.28467">ακολουθία παραδόσεων μηνυμάτων</tspan></text>
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.13386;stroke-dasharray:2.26772, 1.13386;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-15-2-0-2)"
+     d="m 213.70297,444.60895 c 14.40971,0 28.8194,0 43.2291,0"
+     id="path3-69-4-0-7"
+     transform="matrix(0.67980307,0,0,0.67980307,304.23596,-297.59527)" />
+  <path
+     style="fill:none;stroke:#555555;stroke-width:1.13386;stroke-dasharray:2.26772, 1.13386;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-15-2-0-6-3)"
+     d="m 213.70297,444.60895 c 14.40971,0 28.8194,0 43.2291,0"
+     id="path3-69-4-0-9-8"
+     transform="matrix(-0.67980307,0,0,0.67980307,451.11127,-297.59527)" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:14.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;fill:#555555;stroke:#555555;stroke-width:1.13386;stroke-dasharray:2.26772, 1.13386"
+     x="-0.92399812"
+     y="35.04723"
+     id="text1"><tspan
+       id="tspan1"
+       x="-0.92399812"
+       y="35.04723"
+       style="stroke:none">...</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:14.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;fill:#555555;stroke:#555555;stroke-width:1.13386;stroke-dasharray:2.26772, 1.13386"
+     x="539.79254"
+     y="35.04723"
+     id="text1-6"><tspan
+       id="tspan1-1"
+       x="539.79254"
+       y="35.04723"
+       style="stroke:none">...</tspan></text>
+</svg>

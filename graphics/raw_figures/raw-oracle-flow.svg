@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="raw-oracle-flow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="cm"
+     showguides="true"
+     inkscape:zoom="1.4218014"
+     inkscape:cx="426.57153"
+     inkscape:cy="408.63654"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="132.28347,1028.0315"
+       orientation="0,1"
+       id="guide4"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="699.21261,1028.0315"
+       orientation="-1,0"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="699.21261,94.488191"
+       orientation="0,1"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="132.28347,94.488191"
+       orientation="-1,0"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect21"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect20"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect19"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker11"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path11" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern40"
+       patternTransform="matrix(1.4142136,1.4142136,-1.4142136,1.4142136,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect24"
+         width="44.999748"
+         height="77.937294"
+         x="251.53429"
+         y="222.73541" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect5-4"
+         width="20"
+         height="200"
+         x="530"
+         y="595" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1-0"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1-0-9"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1-0-3"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect20-3"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1-0-3-7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-2"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1-1"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1-0-7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1-0-9-5"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker11-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path11-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="blank a4 page"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="margins">
+    <path
+       id="path14"
+       style="fill:#cccccc;stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="M 0 0 L 0 1122.5196 L 793.70119 1122.5196 L 793.70119 0 L 0 0 z M 132.28321 94.488283 L 699.21291 94.488283 L 699.21291 1028.0313 L 132.28321 1028.0313 L 132.28321 94.488283 z " />
+    <path
+       id="path17"
+       style="fill:url(#pattern40);stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-opacity:1;opacity:0.6"
+       d="M 0 0 L 0 1122.5196 L 793.70119 1122.5196 L 793.70119 0 L 0 0 z M 132.28321 94.488283 L 699.21291 94.488283 L 699.21291 1028.0313 L 132.28321 1028.0313 L 132.28321 94.488283 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="free space">
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none"
+       d="M 132.28347,94.488211 H 699.21261 V 1028.0315 H 132.28347 Z"
+       id="path2"
+       sodipodi:insensitive="true" />
+  </g>
+  <rect
+     style="fill:#f5f5f5;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:8, 1;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1"
+     width="525.93518"
+     height="256.88263"
+     x="152.20557"
+     y="148.41052"
+     ry="4.7246504" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11-5)"
+     d="m 214.34135,221.97559 0,151.01892 h 331.78462"
+     id="path71-6"
+     sodipodi:nodetypes="ccc" />
+  <g
+     id="g50"
+     transform="translate(0,-12)">
+    <rect
+       style="fill:#e8d5a8;fill-opacity:1;stroke:#4a380a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-2-7-6-9-6"
+       width="99.994545"
+       height="36.147644"
+       x="162.59795"
+       y="197.82794"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#4a380a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="212.72322"
+       y="218.35512"
+       id="text1-9-1"><tspan
+         sodipodi:role="line"
+         x="212.72322"
+         y="218.35512"
+         id="tspan27"
+         style="font-size:10.6667px;fill:#4a380a;fill-opacity:1">Ρυθμιστική αρχή</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:14.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+     x="395.87671"
+     y="133.95332"
+     id="text4"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="395.87671"
+       y="133.95332"
+       style="font-size:14.6667px;fill:#555555;fill-opacity:1;stroke:none">Θάλαμος (enclave)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:14.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+     x="602.07159"
+     y="134.07799"
+     id="text8"><tspan
+       sodipodi:role="line"
+       id="tspan5"
+       x="602.07159"
+       y="134.07799"
+       style="font-size:14.6667px;fill:#555555;fill-opacity:1;stroke:none">Έξυπνο συμβόλαιο Move</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+     x="278.05502"
+     y="168.3"
+     id="text26"><tspan
+       sodipodi:role="line"
+       id="tspan26"
+       x="278.05502"
+       y="168.3"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none">Φάση εγγραφής, μια φορά ανά έκδοση κώδικα</tspan></text>
+  <g
+     id="g35"
+     transform="translate(-35.249989,-48)">
+    <rect
+       style="fill:#e8b4b8;fill-opacity:1;stroke:#4a0b0b;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-2-7-6-4-04-3"
+       width="183.3958"
+       height="103.69589"
+       x="323.60873"
+       y="270.4686"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:120.764;display:inline;fill:#4a0b0b;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="411.81512"
+       y="193.53073"
+       id="text3-87-7"
+       transform="translate(3.5332031,94.85012)"><tspan
+         x="411.81512"
+         y="193.53073"
+         id="tspan2">Θάλαμος (enclave)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:188.401;display:inline;fill:#4a0b0b;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="411.81512"
+       y="193.53073"
+       id="text35"
+       transform="translate(5.0489847,120.73271)"><tspan
+         x="411.81512"
+         y="193.53073"
+         id="tspan8"><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan4">εκκίνηση: εφήμερο κλειδί </tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan7">Ed25519
+</tspan></tspan><tspan
+         x="411.81512"
+         y="206.86411"
+         id="tspan23"><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan16">αίτηση στο </tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan20">NSM: </tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan22">έγγραφο βεβαίωσης
+</tspan></tspan><tspan
+         x="411.81512"
+         y="220.19748"
+         id="tspan29"><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan24">(</tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan25">PCR </tspan><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan28">της εικόνας + δημόσιο κλειδί)
+</tspan></tspan><tspan
+         x="411.81512"
+         y="233.53086"
+         id="tspan31"><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan30">υπογράφει και πληρώνει ο ίδιος</tspan></tspan></text>
+  </g>
+  <g
+     id="g38"
+     transform="translate(6.9626428,-11.50267)">
+    <rect
+       style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect35"
+       width="119.88777"
+       height="36.147644"
+       x="540.57001"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.69525"
+       y="214.67114"
+       id="text36"><tspan
+         sodipodi:role="line"
+         x="600.69525"
+         y="214.67114"
+         id="tspan35"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1">EnclaveConfig</tspan><tspan
+         sodipodi:role="line"
+         x="600.69525"
+         y="228.00452"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1"
+         id="tspan9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.06055"
+       y="224.87372"
+       id="text37"><tspan
+         sodipodi:role="line"
+         x="600.06055"
+         y="224.87372"
+         id="tspan36"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#24143a;fill-opacity:1">αναμενόμενα PCR</tspan></text>
+  </g>
+  <g
+     id="g39"
+     transform="translate(6.9626428,101.22583)">
+    <rect
+       style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect38"
+       width="119.88777"
+       height="36.147644"
+       x="540.57001"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.69525"
+       y="215.15445"
+       id="text38"><tspan
+         sodipodi:role="line"
+         x="600.69525"
+         y="215.15445"
+         id="tspan38"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1">Enclave&lt;ReportChannel&gt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.06055"
+       y="225.22539"
+       id="text39"><tspan
+         sodipodi:role="line"
+         x="600.06055"
+         y="225.22539"
+         id="tspan39"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#24143a;fill-opacity:1">δημόσιο κλειδί, έκδοση ρύθμισης</tspan></text>
+  </g>
+  <g
+     id="g41"
+     transform="translate(6.9626428,157.59008)">
+    <rect
+       style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect39"
+       width="119.88777"
+       height="36.147644"
+       x="540.57001"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.69525"
+       y="214.31947"
+       id="text40"><tspan
+         sodipodi:role="line"
+         x="600.69525"
+         y="214.31947"
+         id="tspan40"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1">ChannelPolicy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.06055"
+       y="224.17038"
+       id="text41"><tspan
+         sodipodi:role="line"
+         x="600.06055"
+         y="224.17038"
+         id="tspan41"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#24143a;fill-opacity:1">αποδεκτός θάλαμος, window_ms</tspan></text>
+  </g>
+  <path
+     style="fill:none;fill-opacity:0.8;stroke:#555555;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11)"
+     d="M 262.5925,203.90176 H 545.75468"
+     id="path53"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="334.16125"
+     y="199.49721"
+     id="text53"><tspan
+       sodipodi:role="line"
+       id="tspan53"
+       x="334.16125"
+       y="199.49721"
+       style="font-size:10.6667px">create_config(PCR0, PCR1, PCR2)</tspan></text>
+  <path
+     style="fill:#cccccc;fill-opacity:0.8;stroke:#555555;stroke-width:1;stroke-dasharray:6.04725, 0.755906;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11)"
+     d="m 607.47653,221.97559 0,10.13247"
+     id="path57"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11)"
+     d="m 471.60037,260.28157 h 74.93761"
+     id="path58"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="489.68634"
+     y="256.28174"
+     id="text59"><tspan
+       sodipodi:role="line"
+       id="tspan59"
+       x="489.68634"
+       y="256.28174"
+       style="font-size:10.6667px">βεβαίωση</tspan><tspan
+       sodipodi:role="line"
+       x="489.68634"
+       y="264.85718"
+       style="font-size:8px"
+       id="tspan19" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="312.72336"
+     y="368.07114"
+     id="text59-2"><tspan
+       sodipodi:role="line"
+       x="312.72336"
+       y="368.07114"
+       id="tspan19-0"
+       style="font-size:10.6667px">accept_enclave, set_window_ms</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11)"
+     d="m 607.47653,331.38855 v 22.18396"
+     id="path60"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:54.6587;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="520.20331"
+     y="226.54065"
+     id="text61"
+     transform="translate(108.82498,117.53926)"><tspan
+       x="520.20331"
+       y="226.54065"
+       id="tspan32">δημιουργία</tspan></text>
+  <rect
+     style="fill:#f5f5f5;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:8, 1;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect61"
+     width="525.93518"
+     height="266.10022"
+     x="152.20557"
+     y="420.41052"
+     ry="4.7246504" />
+  <g
+     id="g41-3"
+     transform="translate(6.9626428,273.2304)">
+    <rect
+       style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect39-6"
+       width="119.88777"
+       height="36.147644"
+       x="540.57001"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.69525"
+       y="211.85779"
+       id="text40-1"><tspan
+         sodipodi:role="line"
+         x="600.69525"
+         y="211.85779"
+         id="tspan40-0"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1">Ανακατασκευή μηνύματος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.06055"
+       y="226.2804"
+       id="text41-6"><tspan
+         sodipodi:role="line"
+         x="600.06055"
+         y="226.2804"
+         id="tspan41-3"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#24143a;fill-opacity:1">επαλήθευση υπογραφής</tspan></text>
+  </g>
+  <g
+     id="g50-9"
+     transform="translate(0,272.73307)">
+    <rect
+       style="fill:#e8d5a8;fill-opacity:1;stroke:#4a380a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-5-2-7-6-9-6-4"
+       width="99.994553"
+       height="58.654305"
+       x="162.59795"
+       y="197.82794"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#4a380a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="212.72322"
+       y="218.35512"
+       id="text1-9-1-7"><tspan
+         sodipodi:role="line"
+         x="212.72322"
+         y="218.35512"
+         id="tspan27-8"
+         style="font-size:10.6667px;fill:#4a380a;fill-opacity:1">Εξωτερική πηγή</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#4a380a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="212.72322"
+       y="238.04845"
+       id="text20"><tspan
+         sodipodi:role="line"
+         x="212.72322"
+         y="238.04845"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#4a380a;fill-opacity:1"
+         id="tspan21">συσκευή IoT ή επιθεωρητής</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:13.3333px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+     x="258.05502"
+     y="440.30002"
+     id="text62"><tspan
+       sodipodi:role="line"
+       id="tspan62"
+       x="258.05502"
+       y="440.30002"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none">Φάση ανάγνωσης, σε κάθε λειτουργία</tspan></text>
+  <g
+     id="g66"
+     transform="translate(-35.249989,147.67995)">
+    <rect
+       style="fill:#e8b4b8;fill-opacity:1;stroke:#4a0b0b;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect62"
+       width="153.15247"
+       height="102.72449"
+       x="353.85205"
+       y="307.74524"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:120.764;display:inline;fill:#4a0b0b;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="411.81512"
+       y="193.53073"
+       id="text65"
+       transform="translate(18.654854,132.85012)"><tspan
+         x="411.81512"
+         y="193.53073"
+         id="tspan33">Θάλαμος (enclave)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:188.401;display:inline;fill:#4a0b0b;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="411.81512"
+       y="193.53073"
+       id="text66"
+       transform="translate(20.170635,208.73271)"><tspan
+         x="411.81512"
+         y="193.53073"
+         id="tspan37"><tspan
+           style="font-style:italic;-inkscape-font-specification:'Libertinus Serif Italic'"
+           id="tspan34">υπογραφή με το ιδιωτικό κλειδί</tspan></tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11)"
+       d="m 642.7265,243.38838 v 78.24935"
+       id="path75"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     id="g70"
+     transform="translate(-23.221968,360.16926)">
+    <rect
+       style="fill:#b5d5b8;fill-opacity:0.8;stroke:#122a13;stroke-width:0.755906;stroke-dasharray:6.04725, 0.755906;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect69"
+       width="62.637886"
+       height="29.382177"
+       x="533.32599"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="564.8316"
+       y="214.47505"
+       id="text70"><tspan
+         sodipodi:role="line"
+         x="564.8316"
+         y="214.47505"
+         id="tspan70"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1">εκτέλεση</tspan></text>
+  </g>
+  <g
+     id="g71"
+     transform="translate(69.281715,360.16926)">
+    <rect
+       style="fill:#e8b4b8;fill-opacity:0.8;stroke:#4a0b0b;stroke-width:0.755906;stroke-dasharray:6.04725, 0.755906;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect71"
+       width="62.637886"
+       height="29.382177"
+       x="533.32599"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#4a0b0b;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="564.8316"
+       y="214.47505"
+       id="text71"><tspan
+         sodipodi:role="line"
+         x="564.8316"
+         y="214.47505"
+         id="tspan71"
+         style="font-size:10.6667px;fill:#4a0b0b;fill-opacity:1">απόρριψη</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="377.23029"
+     y="582.5946"
+     id="text72"><tspan
+       sodipodi:role="line"
+       id="tspan72"
+       x="377.23029"
+       y="582.5946"
+       style="font-size:8px">συναλλαγή</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11)"
+     d="m 576.02983,506.70865 -29.32432,50.79122"
+     id="path72" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker11)"
+     d="m 623.15315,506.70865 13.60947,50.79122"
+     id="path73" />
+  <g
+     id="g73"
+     transform="translate(-175.84069,292.62633)">
+    <rect
+       style="fill:#cccccc;fill-opacity:0.8;stroke:#555555;stroke-width:0.755906;stroke-dasharray:6.04725, 0.755906;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect73"
+       width="115.17249"
+       height="44.10495"
+       x="513.43274"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.33333px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="571.04474"
+       y="209.86388"
+       id="text73"><tspan
+         sodipodi:role="line"
+         x="571.04474"
+         y="209.86388"
+         id="tspan73"
+         style="font-size:9.33333px;fill:#24143a;fill-opacity:1">Μήνυμα πρόθεσης</tspan><tspan
+         sodipodi:role="line"
+         x="571.04474"
+         y="221.53053"
+         style="font-size:9.33333px;fill:#24143a;fill-opacity:1"
+         id="tspan74">εμβέλεια, χρονοσφραγίδα,</tspan><tspan
+         sodipodi:role="line"
+         x="571.04474"
+         y="233.1972"
+         style="font-size:9.33333px;fill:#24143a;fill-opacity:1"
+         id="tspan75">αποτέλεσμα</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:54.6587;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     x="520.20331"
+     y="226.54065"
+     id="text76"
+     transform="translate(111.83032,209.54561)"><tspan
+       x="520.20331"
+       y="226.54065"
+       id="tspan42">δημόσιο κλειδί</tspan></text>
+  <g
+     id="g16"
+     transform="translate(6.9626428,44.86158)">
+    <rect
+       style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9"
+       width="119.88777"
+       height="36.147644"
+       x="540.57001"
+       y="197.33061"
+       ry="4.7246504" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.69525"
+       y="213.85779"
+       id="text10"><tspan
+         sodipodi:role="line"
+         x="600.69525"
+         y="213.85779"
+         id="tspan10"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1">register_enclave</tspan><tspan
+         sodipodi:role="line"
+         x="600.69525"
+         y="227.19116"
+         style="font-size:10.6667px;fill:#24143a;fill-opacity:1"
+         id="tspan17" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="600.06055"
+       y="226.2804"
+       id="text16"><tspan
+         sodipodi:role="line"
+         x="600.06055"
+         y="226.2804"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#24143a;fill-opacity:1"
+         id="tspan18">έλεγχος βεβαίωσης, σύγκριση PCR</tspan></text>
+  </g>
+</svg>

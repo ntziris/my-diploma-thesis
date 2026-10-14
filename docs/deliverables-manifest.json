@@ -1,0 +1,1194 @@
+{
+  "source": "Παραδοτέα αρχεία",
+  "description": "Unmodified submitted PDFs, diagrams, screenshots and graphics. Video checksums are in videos/manifest.json.",
+  "files": [
+    {
+      "source": "thesis.pdf",
+      "file": "thesis.pdf",
+      "bytes": 14237212,
+      "sha256": "dac0beb8859acc7b8ed5a1a9940686fa79795c1a0039ee8e8d643432bad164b8"
+    },
+    {
+      "source": "thesis (έκδοση με χρώμα και διακόσμηση στο εξώφυλλο).pdf",
+      "file": "thesis-color.pdf",
+      "bytes": 14313739,
+      "sha256": "56b83f5576a458bfad625feb69a3e65d00c6b3d7cc364cb93306a547a663e72f"
+    },
+    {
+      "source": "Screenshots/Αγγελία Πώλησης Κλάσματος.png",
+      "file": "screenshots/listing.png",
+      "bytes": 177196,
+      "sha256": "c90f958ef090b0f7c95d5d595c15730d592e380d77f41a6c2e920a819231433f"
+    },
+    {
+      "source": "Screenshots/Ανάλυση Πληρωμής.png",
+      "file": "screenshots/payment-breakdown.png",
+      "bytes": 500678,
+      "sha256": "caba35a2092f5f746adfeaf1e43fa8431e9aa569c881e8adbdd8299bacd365eb"
+    },
+    {
+      "source": "Screenshots/Διαχείριση - Γεγονότα.png",
+      "file": "screenshots/admin-events.png",
+      "bytes": 251805,
+      "sha256": "19345f35d04497ff7f3436004966a9f68a4f4e330c7b032ff3e703d055909893"
+    },
+    {
+      "source": "Screenshots/Διαχείριση - Γκαλερί.png",
+      "file": "screenshots/admin-galleries.png",
+      "bytes": 138018,
+      "sha256": "815733e15929d781ba5aece6a52fc27fc2ddb4c067391777380bbcf805b14e1a"
+    },
+    {
+      "source": "Screenshots/Ειδοποιήσεις - Αναφορά Γκαλερί.png",
+      "file": "screenshots/notifications-gallery-report.png",
+      "bytes": 108371,
+      "sha256": "8836e8e355d023d4207dc3ffe40f849502e67690439a8a3062588e80b78482db"
+    },
+    {
+      "source": "Screenshots/Επαλήθευση Γνησιότητας.png",
+      "file": "screenshots/verify.png",
+      "bytes": 160626,
+      "sha256": "efe8412c4583f377dd001de1fdfcc1b032137ae84cd5d8a006bd3601c75a7b56"
+    },
+    {
+      "source": "Screenshots/Ιστορικό Έργου Τέχνης.png",
+      "file": "screenshots/artwork-history.png",
+      "bytes": 370868,
+      "sha256": "6245c86e0140f9801b5c7170a5e33db505d036d1887bb87595a70ca6d65ea3e3"
+    },
+    {
+      "source": "Screenshots/Κάρτα Καταλόγου.png",
+      "file": "screenshots/catalogue-card.png",
+      "bytes": 235399,
+      "sha256": "03454ba6936503d08c186c5d024980fc940bd907cbb623d25d9af66de7cd454a"
+    },
+    {
+      "source": "Screenshots/Κατάλογος - Αναζήτηση.png",
+      "file": "screenshots/catalogue-search.png",
+      "bytes": 807060,
+      "sha256": "b1e111f1fa8d156cf4b3346a27bd1c12c4e5988eb09d2f81bfa622472606d783"
+    },
+    {
+      "source": "Screenshots/Κατάλογος - Σελιδόποιηση.png",
+      "file": "screenshots/catalogue-pagination.png",
+      "bytes": 394444,
+      "sha256": "33a72e1d7bdd89cbfefd0c441a9b9e742f8382b12c3a0ea7ba65fe4d7a6d20c1"
+    },
+    {
+      "source": "Screenshots/Κατάλογος - Ταξινόμηση.png",
+      "file": "screenshots/catalogue-sort.png",
+      "bytes": 16989,
+      "sha256": "a3717c7cda0b356a60078a7d0f661655213115dca8012a5ca598d9fdbd07af1e"
+    },
+    {
+      "source": "Screenshots/Κατάλογος - Φίλτρο Κατάστασης.png",
+      "file": "screenshots/catalogue-status.png",
+      "bytes": 65462,
+      "sha256": "2d3fe1c828a0f5d7d8745710521f41f039ea205502490e1a3a2851f5d2cde0f7"
+    },
+    {
+      "source": "Screenshots/Κατάσταση Απώλειας Έργου.png",
+      "file": "screenshots/loss-after.png",
+      "bytes": 808751,
+      "sha256": "a49865945ba6b74bc2cea2d1275c7dcd6d5be4373d75ce73818f683e9f06b743"
+    },
+    {
+      "source": "Screenshots/Κλασματοποίηση Έργου.png",
+      "file": "screenshots/fractionalize.png",
+      "bytes": 217026,
+      "sha256": "4d782cbb60ac7016f19ec0c46ac362caa4364a16f61f843b7bedf142b917d9f2"
+    },
+    {
+      "source": "Screenshots/Κοπή Έργου (Mint).png",
+      "file": "screenshots/mint.png",
+      "bytes": 340987,
+      "sha256": "6b182f5e06366a7db03b166ec62f42a441cd8ff22541fbcae3a30d813d5ebf62"
+    },
+    {
+      "source": "Screenshots/Μενού Λογαριασμού.png",
+      "file": "screenshots/account-menu.png",
+      "bytes": 67333,
+      "sha256": "a39c7ab7cba585e6b19530457797c7da38b77d52b4efe9ba737f3f392d71b44f"
+    },
+    {
+      "source": "Screenshots/Παράδειγμα Ειδοποίησης.png",
+      "file": "screenshots/notification-example.png",
+      "bytes": 16502,
+      "sha256": "4dd35458a8bfa70b0875c539873322b8a520512bcfadebe4a3b66295e8a76cf6"
+    },
+    {
+      "source": "Screenshots/Παράθυρο Σύνδεσης.png",
+      "file": "screenshots/connect-modal.png",
+      "bytes": 300840,
+      "sha256": "1ba149731fe0d9197a535a615af13b5bf9ffa305149fefffdea5f72583eb5ee1"
+    },
+    {
+      "source": "Screenshots/Πιστοποιημένο Έργο Τέχνης.png",
+      "file": "screenshots/artwork-certified.png",
+      "bytes": 569077,
+      "sha256": "09fba150124f60f0c2233a66fe2af5c95cc2df63bebcc09c3e989a9d19ab483a"
+    },
+    {
+      "source": "Screenshots/Πιστοποιητικό Γκαλερί.png",
+      "file": "screenshots/gallery-certificate.png",
+      "bytes": 179105,
+      "sha256": "d8a279fb992f686aae6cb101f3cf2715130c5925eade8f4b779fe442e8b436e3"
+    },
+    {
+      "source": "Screenshots/Πορτοφόλι Κλασμάτων.png",
+      "file": "screenshots/fractions-wallet.png",
+      "bytes": 390237,
+      "sha256": "142707d2caf61e3f5cf14ea8ec281a0438307443a8087c5c5051d167434b896c"
+    },
+    {
+      "source": "Screenshots/Προσομοιωτής Πηγής Oracle.png",
+      "file": "screenshots/source-simulator.png",
+      "bytes": 96793,
+      "sha256": "e8c5bc442ce3d0d83dbe9dba3a2fbbdf284d33428ce9664db5e9d78dcb139cfe"
+    },
+    {
+      "source": "Screenshots/Πρόσβαση Seal Εγκεκριμένη.png",
+      "file": "screenshots/seal-granted.png",
+      "bytes": 1202903,
+      "sha256": "721dbd626ae7507b28440a352d9100e81f4483875ef5b932f2c3c347fdb038fb"
+    },
+    {
+      "source": "Screenshots/Ροή Σύνδεσης.png",
+      "file": "screenshots/connect-flow.png",
+      "bytes": 299463,
+      "sha256": "8cf188437bc668ff19817a5e56be9afca98b6cd86fe940036c0531bd21427292"
+    },
+    {
+      "source": "Screenshots/Συνένωση Κλασμάτων.png",
+      "file": "screenshots/consolidate-modal.png",
+      "bytes": 178229,
+      "sha256": "4d3cb1eda75d53d211e86b8cbdd2fb27fb6489e4d08cdd0143c18e79a0ace66f"
+    },
+    {
+      "source": "Screenshots/Συνδεδεμένος Χρήστης.png",
+      "file": "screenshots/connected.png",
+      "bytes": 33349,
+      "sha256": "158b9821abee4ea4d9ed268755e668c71137aed15d6debee56d3ff99d38fcbf9"
+    },
+    {
+      "source": "Screenshots/Σύνδεση - Έγκριση Πορτοφολιού.png",
+      "file": "screenshots/connect-approve.png",
+      "bytes": 53170,
+      "sha256": "91ee04ba7ba32161db54c765d4c1af9e3018a949331f783a0e530463433e799b"
+    },
+    {
+      "source": "Screenshots/Υποβολή Αναφοράς.png",
+      "file": "screenshots/report-artwork.png",
+      "bytes": 451947,
+      "sha256": "4e09fd7d4d00c08a3d3a24a387703d266c9be447ddd59aa14c185d1e9d6933e0"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Συστατικών.png",
+      "file": "diagrams/components.png",
+      "bytes": 349321,
+      "sha256": "45780fac49870bdf97d96f14a6f24dac51ac2a4963a8ca23a95374022b44f81a"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Συστατικών.svg",
+      "file": "diagrams/components.svg",
+      "bytes": 258956,
+      "sha256": "a691af4ddc76fda07c554e1f29f08579e553b0dd4e6845e53e1256eaa83e261c"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Συστατικών.vpp",
+      "file": "diagrams/components.vpp",
+      "bytes": 786432,
+      "sha256": "fcf65affa444d4d49dc668d53011b140b8751d29a564edcc2e7992a302d3dccf"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ανάπτυξης.png",
+      "file": "diagrams/deployment.png",
+      "bytes": 282655,
+      "sha256": "901bf26c2bbc394d13cf61b02c0166f8fe65702c5c078b313555724bc8843059"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ανάπτυξης.svg",
+      "file": "diagrams/deployment.svg",
+      "bytes": 112747,
+      "sha256": "9034371e111986b7e4f69e257810d92fae1905eb65f922ae3aa0bcd8f74fc5d5"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ανάπτυξης.vpp",
+      "file": "diagrams/deployment.vpp",
+      "bytes": 696320,
+      "sha256": "1f8c5e0333ebbdbbaade712ed9a122a8c2dd88b76d09ace78c8b830f6ed7676f"
+    },
+    {
+      "source": "Διαγράμματα UML/Μοντέλο Αντικειμένων στο Sui.png",
+      "file": "diagrams/sui-object-model.png",
+      "bytes": 1193766,
+      "sha256": "33089de4b9b403b7d5dbf6f878041eb980f4c8a84d3623b4a540d040cfc4e879"
+    },
+    {
+      "source": "Διαγράμματα UML/Μοντέλο Αντικειμένων στο Sui.svg",
+      "file": "diagrams/sui-object-model.svg",
+      "bytes": 197159,
+      "sha256": "8bcb061dad972cb03cc5aca4eb756517abfbfcdfdca8f57288d7a6191810d11e"
+    },
+    {
+      "source": "Διαγράμματα UML/Μοντέλο Αντικειμένων στο Sui.vpp",
+      "file": "diagrams/sui-object-model.vpp",
+      "bytes": 798720,
+      "sha256": "61c0779152e4f81a821b2e3ba2ff2e8a51d381add5fe812f1e923b243daab7c2"
+    },
+    {
+      "source": "Διαγράμματα UML/Μοντέλο Ευρετηρίου.png",
+      "file": "diagrams/index-model.png",
+      "bytes": 379991,
+      "sha256": "3c2cd135e886b1b9a1e87e4ca4b4801f843dd51da5c4dc1814084e99809bad75"
+    },
+    {
+      "source": "Διαγράμματα UML/Μοντέλο Ευρετηρίου.svg",
+      "file": "diagrams/index-model.svg",
+      "bytes": 75608,
+      "sha256": "16e48b4b6bed502bec553524e496851dab7a7695821752465611718f63b3a5dd"
+    },
+    {
+      "source": "Διαγράμματα UML/Μοντέλο Ευρετηρίου.vpp",
+      "file": "diagrams/index-model.vpp",
+      "bytes": 696320,
+      "sha256": "95d9180c04bf6fec94ca37c71b3cfaa74caa4dd2758a6e5c90ba10e5a48fab77"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Συστατικών του Oracle.png",
+      "file": "diagrams/oracle-components.png",
+      "bytes": 135637,
+      "sha256": "b0dc73f7e681670eeb5634f024bdaab49dbe2a6eb1a0b6375e7a726ab6d5a0d3"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Συστατικών του Oracle.svg",
+      "file": "diagrams/oracle-components.svg",
+      "bytes": 141669,
+      "sha256": "e9deaca76b6fec2fee2de3b0cffe354b26f6e95f5ceff95ba729c5331b802a7e"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Συστατικών του Oracle.vpp",
+      "file": "diagrams/oracle-components.vpp",
+      "bytes": 757760,
+      "sha256": "bd2a7b6b4e4edafd50c7e1c3174546f79f6d1e1a33747a38e4ab61e93d356116"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Καταστάσεων Κύκλου Ζωής Έργου Τέχνης.png",
+      "file": "diagrams/artwork-lifecycle.png",
+      "bytes": 66687,
+      "sha256": "c02eaa2b661791335c20e0293efd8c0bb5040c57eff2765bc3717f1752483bd8"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Καταστάσεων Κύκλου Ζωής Έργου Τέχνης.svg",
+      "file": "diagrams/artwork-lifecycle.svg",
+      "bytes": 54167,
+      "sha256": "e3031830db7413d69ebe9c6b56ff7a116b484351d9c681d2e7fc81b23c11f7c1"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Καταστάσεων Κύκλου Ζωής Έργου Τέχνης.vpp",
+      "file": "diagrams/artwork-lifecycle.vpp",
+      "bytes": 659456,
+      "sha256": "a6be56373970639b6d07478a54f69b18ac95b1dc4abf64d69685111ee08ef0fc"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Κοπής (mint) Έργου.png",
+      "file": "diagrams/mint-sequence.png",
+      "bytes": 207301,
+      "sha256": "98b50043eea58ab895ebb53039673df642b19cac2563d8597847d81a705aa544"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Κοπής (mint) Έργου.svg",
+      "file": "diagrams/mint-sequence.svg",
+      "bytes": 59225,
+      "sha256": "b15fe05286d1b17b58f3593ac009a194eeeb6710426cc70f70b75c6ec8e7a6a7"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Κοπής (mint) Έργου.vpp",
+      "file": "diagrams/mint-sequence.vpp",
+      "bytes": 675840,
+      "sha256": "a8f2a100a76e38833131092fff24598f6bc9620bce671d757a185b5b954934e7"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Ανάγνωσης Εικόνας Υψηλής Ανάλυσης (Walrus + Seal).png",
+      "file": "diagrams/sealed-image-sequence.png",
+      "bytes": 108709,
+      "sha256": "6cb39fdc8c5284b9f78259e1a0dae7a413d71f4e6db032300b3463900c9aee8e"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Ανάγνωσης Εικόνας Υψηλής Ανάλυσης (Walrus + Seal).svg",
+      "file": "diagrams/sealed-image-sequence.svg",
+      "bytes": 48028,
+      "sha256": "acaa23b58561f6a75158f1e350e5389b1d600b6268e5c3844d6d85fd64b4eec8"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Ανάγνωσης Εικόνας Υψηλής Ανάλυσης (Walrus + Seal).vpp",
+      "file": "diagrams/sealed-image-sequence.vpp",
+      "bytes": 659456,
+      "sha256": "54502486e1feec2bbac62808370bbf4e9119ab52baed2047ccae16eff1fc0280"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Ανάγνωσης Δημόσιας Εικόνας (Walrus).png",
+      "file": "diagrams/public-image-sequence.png",
+      "bytes": 62953,
+      "sha256": "fc8330f79ad3ec1c889d7888b9fdd3a1b262eccbe88b2e383bec63e356a44f4a"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Ανάγνωσης Δημόσιας Εικόνας (Walrus).svg",
+      "file": "diagrams/public-image-sequence.svg",
+      "bytes": 28931,
+      "sha256": "15de907372350ec7cb18af53aae4ed0e2ee72d3a03f9aef9d33f05e4529814ae"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Ανάγνωσης Δημόσιας Εικόνας (Walrus).vpp",
+      "file": "diagrams/public-image-sequence.vpp",
+      "bytes": 643072,
+      "sha256": "107fc266bdc251ae643f1619be4f3a139497cb77d57f2579af595964bf1fdb78"
+    },
+    {
+      "source": "Διαγράμματα UML/Θεωρητικό Διάγραμμα Συστατικών Oracles.png",
+      "file": "diagrams/oracle-theory-components.png",
+      "bytes": 106555,
+      "sha256": "38a8dacbdb6982252b50a0af2fd6f1b9f4c76fa63980d83a063d2851bbd08014"
+    },
+    {
+      "source": "Διαγράμματα UML/Θεωρητικό Διάγραμμα Συστατικών Oracles.svg",
+      "file": "diagrams/oracle-theory-components.svg",
+      "bytes": 29805,
+      "sha256": "f2af43e2b8d452806bfe3c4f82c25960aa7071cd1fcfd0c5d704542c6f617056"
+    },
+    {
+      "source": "Διαγράμματα UML/Θεωρητικό Διάγραμμα Συστατικών Oracles.vpp",
+      "file": "diagrams/oracle-theory-components.vpp",
+      "bytes": 897024,
+      "sha256": "a9e8994bcfe32b5b5aad837d20f8f4b7d8a6f08dca6e3553e77c0cbf8a358335"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Εγγραφής του Oracle (Nautilus).png",
+      "file": "diagrams/oracle-registration-sequence.png",
+      "bytes": 105438,
+      "sha256": "d6ef474bc2c7438ff7952daa2b8f74d4ee794f2d965bac99e01613ec26f9c086"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Εγγραφής του Oracle (Nautilus).svg",
+      "file": "diagrams/oracle-registration-sequence.svg",
+      "bytes": 44984,
+      "sha256": "8a1337ec6e5d50dd43ef4be10a1a81716cb1cea1d87f5879baaad43368813ee0"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Εγγραφής του Oracle (Nautilus).vpp",
+      "file": "diagrams/oracle-registration-sequence.vpp",
+      "bytes": 655360,
+      "sha256": "56768319f753e88a8df1fa295bd79427ef8717d63725ccd91f3f3d3d08a76712"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Υποβολής Αναφοράς στο Oracle.png",
+      "file": "diagrams/oracle-submission-sequence.png",
+      "bytes": 109039,
+      "sha256": "2749b045807b9d995a07b54f99df509698432f399bb7bf410313fdbbbee99fbd"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Υποβολής Αναφοράς στο Oracle.svg",
+      "file": "diagrams/oracle-submission-sequence.svg",
+      "bytes": 48431,
+      "sha256": "f36474b49a2bdf81ab45192e117f3037499a1ccbba9a6e06927a05975a587d38"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Υποβολής Αναφοράς στο Oracle.vpp",
+      "file": "diagrams/oracle-submission-sequence.vpp",
+      "bytes": 663552,
+      "sha256": "6c557a28d583de9ee720f28e9719a846e63af9c7b09330be713248d32c0238ce"
+    },
+    {
+      "source": "Διαγράμματα UML/Θεωρητικό Διάγραμμα Ακολουθίας για συνδυασμό Seal + Walrus.png",
+      "file": "diagrams/seal-walrus-theory-sequence.png",
+      "bytes": 188177,
+      "sha256": "014c7173c756e0a62f52ed1d02daeb3c0b2a5e68e741052f477bce1345d788cc"
+    },
+    {
+      "source": "Διαγράμματα UML/Θεωρητικό Διάγραμμα Ακολουθίας για συνδυασμό Seal + Walrus.svg",
+      "file": "diagrams/seal-walrus-theory-sequence.svg",
+      "bytes": 99604,
+      "sha256": "757f8375bb3c48091b966c978c11abcfabef2fd77c6b3fff0ef041e1c94409f0"
+    },
+    {
+      "source": "Διαγράμματα UML/Θεωρητικό Διάγραμμα Ακολουθίας για συνδυασμό Seal + Walrus.vpp",
+      "file": "diagrams/seal-walrus-theory-sequence.vpp",
+      "bytes": 708608,
+      "sha256": "8684b8d98ea49341429d87d957a9df055603136576f934700c25abaf924649cc"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Συνάθροισης και Έκδοσης Αναφοράς από το Oracle.png",
+      "file": "diagrams/oracle-aggregation-sequence.png",
+      "bytes": 411490,
+      "sha256": "442cd1073de8e1714056e30e498fa1f9a196d62b75922f351b834caff48ff249"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Συνάθροισης και Έκδοσης Αναφοράς από το Oracle.svg",
+      "file": "diagrams/oracle-aggregation-sequence.svg",
+      "bytes": 117520,
+      "sha256": "4ae7c0671464c1bc917c2c89cbf1847f567f8f48fdbde84eb5e88f7ba658ecd1"
+    },
+    {
+      "source": "Διαγράμματα UML/Διάγραμμα Ακολουθίας Συνάθροισης και Έκδοσης Αναφοράς από το Oracle.vpp",
+      "file": "diagrams/oracle-aggregation-sequence.vpp",
+      "bytes": 679936,
+      "sha256": "524f3d2672b6f062985a03a87b13ed32ce9bdf7d3f7ad45c88749aae510e8387"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/3-tape-turing-machine.svg",
+      "file": "graphics/figures/3-tape-turing-machine.svg",
+      "bytes": 44610,
+      "sha256": "691166d7c0c140c08c4d8bcfc3b57fdfd450751cf8b86e9f366abe619a37a746"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/bgp-impossibility.svg",
+      "file": "graphics/figures/bgp-impossibility.svg",
+      "bytes": 38376,
+      "sha256": "382bf677f5a867e6a3cd8bccb872926dbe76e1c945d4b8f9ad0ab498bbb1c39d"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/cap-partition.svg",
+      "file": "graphics/figures/cap-partition.svg",
+      "bytes": 11464,
+      "sha256": "3f93ce2c5217cd442dbe752ec6adf293237ca9fe222349cd48e25c4555d8ac3a"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/cover-art.svg",
+      "file": "graphics/figures/cover-art.svg",
+      "bytes": 4352,
+      "sha256": "2a71dfda37e2e3c3df2f81206bc1b0099d7adcbd6136e1cf73b58798597c1397"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-component-diagram.svg",
+      "file": "graphics/figures/fig-component-diagram.svg",
+      "bytes": 258956,
+      "sha256": "a691af4ddc76fda07c554e1f29f08579e553b0dd4e6845e53e1256eaa83e261c"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-deployment.svg",
+      "file": "graphics/figures/fig-deployment.svg",
+      "bytes": 112747,
+      "sha256": "9034371e111986b7e4f69e257810d92fae1905eb65f922ae3aa0bcd8f74fc5d5"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-index-model.svg",
+      "file": "graphics/figures/fig-index-model.svg",
+      "bytes": 75608,
+      "sha256": "16e48b4b6bed502bec553524e496851dab7a7695821752465611718f63b3a5dd"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-lifecycle-states.svg",
+      "file": "graphics/figures/fig-lifecycle-states.svg",
+      "bytes": 54167,
+      "sha256": "e3031830db7413d69ebe9c6b56ff7a116b484351d9c681d2e7fc81b23c11f7c1"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-oracle-components.svg",
+      "file": "graphics/figures/fig-oracle-components.svg",
+      "bytes": 141669,
+      "sha256": "e9deaca76b6fec2fee2de3b0cffe354b26f6e95f5ceff95ba729c5331b802a7e"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-oracle-read.svg",
+      "file": "graphics/figures/fig-oracle-read.svg",
+      "bytes": 48431,
+      "sha256": "f36474b49a2bdf81ab45192e117f3037499a1ccbba9a6e06927a05975a587d38"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-oracle-register.svg",
+      "file": "graphics/figures/fig-oracle-register.svg",
+      "bytes": 44984,
+      "sha256": "8a1337ec6e5d50dd43ef4be10a1a81716cb1cea1d87f5879baaad43368813ee0"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/fig-oracle-report.svg",
+      "file": "graphics/figures/fig-oracle-report.svg",
+      "bytes": 117520,
+      "sha256": "4ae7c0671464c1bc917c2c89cbf1847f567f8f48fdbde84eb5e88f7ba658ecd1"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flm-hexagon.svg",
+      "file": "graphics/figures/flm-hexagon.svg",
+      "bytes": 14892,
+      "sha256": "8e4b695e506c8ced5a7c7bd1256a41e58eb4a634827945c82248f0064590e223"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flm-sim-1.svg",
+      "file": "graphics/figures/flm-sim-1.svg",
+      "bytes": 23466,
+      "sha256": "e8f7be92ad78e6c656ea1422cbe02d405b5a945208b2c2b6d2d4637f9e776f28"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flm-sim-2.svg",
+      "file": "graphics/figures/flm-sim-2.svg",
+      "bytes": 25217,
+      "sha256": "8a12f6277834747cb55c2832f9d8ac25adfd4c881880cd385aae261e1a70e76b"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flm-sim-3.svg",
+      "file": "graphics/figures/flm-sim-3.svg",
+      "bytes": 24917,
+      "sha256": "d8e611750c690d9b6cf1f28f8fdb559ed70da42efa4f350d446416d2cd0ef2be"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flp-config-graph.svg",
+      "file": "graphics/figures/flp-config-graph.svg",
+      "bytes": 18598,
+      "sha256": "a8579030142804724ccec9e3a9cc3aad3ad3a4b1f4d1cd068e29bd3ad7a9afb3"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flp-extend.svg",
+      "file": "graphics/figures/flp-extend.svg",
+      "bytes": 12347,
+      "sha256": "fe31a37bf7c70969311d8d0bba415218bfeddd4ee649462dc2ebedd3ad7ddbb4"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flp-pivotal.svg",
+      "file": "graphics/figures/flp-pivotal.svg",
+      "bytes": 13495,
+      "sha256": "7b462e51f6dabaf1bfd3e3839785452e532fd66ea7ce1b1d2ae8aa41c617c1c6"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flp-search.svg",
+      "file": "graphics/figures/flp-search.svg",
+      "bytes": 13007,
+      "sha256": "fceab090b78a1f97efad01aa87d730dd0cb4bb49fedae3ad9682b06176294718"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/flp-sequence.svg",
+      "file": "graphics/figures/flp-sequence.svg",
+      "bytes": 15567,
+      "sha256": "36edfa1ceaad8edd73ff8b39867e9fc5829fabe53f0a07ed9a74ba8745599133"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/hash-chain.svg",
+      "file": "graphics/figures/hash-chain.svg",
+      "bytes": 17646,
+      "sha256": "52f3a151fbcfb37ac459e506d84ce04861228fa0e94b9d3bebf1d8251a79f60b"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/hash-collisions.svg",
+      "file": "graphics/figures/hash-collisions.svg",
+      "bytes": 10242,
+      "sha256": "ace2ca1048b22d162ede06b7faf3e42a6e151474292654536ca540dce4db7af3"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/hash-pointer.svg",
+      "file": "graphics/figures/hash-pointer.svg",
+      "bytes": 5878,
+      "sha256": "12b221fece000b893669d725bca974d94f48af1a9092fc7ff2b645f3d36fa5a2"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/merkle-proof.svg",
+      "file": "graphics/figures/merkle-proof.svg",
+      "bytes": 21766,
+      "sha256": "1f75a8024a18a3d6b70e25cfd89a4c58d50dd3769d2ce7a81d8da365f64f98c0"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/merkle-tree.svg",
+      "file": "graphics/figures/merkle-tree.svg",
+      "bytes": 52315,
+      "sha256": "b634c86241dd895b364b70eba7d901c4e49164cb0c221c5f25dcc8d1dd999283"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/nautilus-lifecycle.svg",
+      "file": "graphics/figures/nautilus-lifecycle.svg",
+      "bytes": 39810,
+      "sha256": "2a541ee02cfc742aee124f5ff8e57028262140bf2704a9c2694cf7c001481a9c"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/nitro-enclave.svg",
+      "file": "graphics/figures/nitro-enclave.svg",
+      "bytes": 17396,
+      "sha256": "eae8551beae05c79d19a893fdde7e1ede47cb55f9ab47d885e32c4127070a6b2"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/object-model.svg",
+      "file": "graphics/figures/object-model.svg",
+      "bytes": 198500,
+      "sha256": "8a277035e3bfa67e9c79c0a542ab4e0b4db14b3486fc373b774461424cea6049"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-design-patterns.svg",
+      "file": "graphics/figures/oracle-design-patterns.svg",
+      "bytes": 22072,
+      "sha256": "34437360a01b0fdf21bc0bd40c2dc3f4c0a93ecd82a3fb0c747b8e253ea4de6e"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-direction.svg",
+      "file": "graphics/figures/oracle-direction.svg",
+      "bytes": 34721,
+      "sha256": "4795af6dee579d486946998f0fdb5b6b6367831cb60bf830bf4557eb07665ea9"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-immediate-read.svg",
+      "file": "graphics/figures/oracle-immediate-read.svg",
+      "bytes": 28935,
+      "sha256": "a56393214c551418ae4f135539836ec201a2d80f80443d2b5c07958d380cfdbc"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-inbound.svg",
+      "file": "graphics/figures/oracle-inbound.svg",
+      "bytes": 185550,
+      "sha256": "32b22a5c8a08d1ff27dcb356f35b0e92a6fcd592ef4fe7f6e1b4765cd1917f84"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-outbound.svg",
+      "file": "graphics/figures/oracle-outbound.svg",
+      "bytes": 215673,
+      "sha256": "81376f0286f25f33d1bd7fd7b904af7666659ca3b58a99871631289cc28aa9aa"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-publish-subscribe.svg",
+      "file": "graphics/figures/oracle-publish-subscribe.svg",
+      "bytes": 25741,
+      "sha256": "d94e43962068a139322006da891cf00d34b1c5a726f8540d4a8e030632ab8537"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-request-response.svg",
+      "file": "graphics/figures/oracle-request-response.svg",
+      "bytes": 28464,
+      "sha256": "d15d185bea2f1d111b4d2f6857efca31c1cf3075cd44cc4356dd29d09ec12f48"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-sources.svg",
+      "file": "graphics/figures/oracle-sources.svg",
+      "bytes": 21201,
+      "sha256": "ec8b05cb9613a6a4795b88f22d722b1692e9e05685d85fa08ea936ce560c30a8"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-taxonomy-full.svg",
+      "file": "graphics/figures/oracle-taxonomy-full.svg",
+      "bytes": 129315,
+      "sha256": "f2ccae85478258d74f49aa8b1f96175b821c15451236f3d5d483bad8c25b13ad"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-trust-model.svg",
+      "file": "graphics/figures/oracle-trust-model.svg",
+      "bytes": 26610,
+      "sha256": "1a908fbbb46d42c1d92f602b1b9fe1b113cfa4a62141201090a3dc282a6de1a0"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle-validation.svg",
+      "file": "graphics/figures/oracle-validation.svg",
+      "bytes": 36693,
+      "sha256": "bda52f08d45065fcf1408460362b7884057f8e1e41380b19caab70712add9835"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracle.svg",
+      "file": "graphics/figures/oracle.svg",
+      "bytes": 29805,
+      "sha256": "f2af43e2b8d452806bfe3c4f82c25960aa7071cd1fcfd0c5d704542c6f617056"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracles-taxonomy.eddx",
+      "file": "graphics/figures/oracles-taxonomy.eddx",
+      "bytes": 8051,
+      "sha256": "403de11dccd3790df91b1df7f2d182c71ebbcb0074381edf32400c59056407b5"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/oracles-taxonomy.svg",
+      "file": "graphics/figures/oracles-taxonomy.svg",
+      "bytes": 24159,
+      "sha256": "6de005d2381de7cdcf53bef292ed26c67a22a303e953c8865158713f39f31507"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/psync-abc.svg",
+      "file": "graphics/figures/psync-abc.svg",
+      "bytes": 12401,
+      "sha256": "118c952fe44080c10e083c9fa7eed9ef406bfd1757bc61eba8d5c2df316f8e55"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/redstuff-matrix.svg",
+      "file": "graphics/figures/redstuff-matrix.svg",
+      "bytes": 26367,
+      "sha256": "b520bfdd762e9e7d97409e674cc7cce9394560c92e2cddf77603911552ad8dbc"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/redstuff-primary.svg",
+      "file": "graphics/figures/redstuff-primary.svg",
+      "bytes": 42714,
+      "sha256": "4f4956248cf9067756756ff978ce49225bc87a966532b265255850aa0f48933a"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/redstuff-recovery.svg",
+      "file": "graphics/figures/redstuff-recovery.svg",
+      "bytes": 52535,
+      "sha256": "f81bb540ba21aa7f5f56e07ef29700cb99dda68c4d6d2b738e594f99b60e38cd"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/redstuff-secondary.svg",
+      "file": "graphics/figures/redstuff-secondary.svg",
+      "bytes": 36480,
+      "sha256": "7f955b566570f55a30c010a88c51fafa40063f94b8bc43919f30347775fdedf1"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/rwa-dual-state.svg",
+      "file": "graphics/figures/rwa-dual-state.svg",
+      "bytes": 21142,
+      "sha256": "ae7579bf382265d7b0b5d76056404815a4be082380e5cfef807881c1c1e78076"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/rwa-lifecycle.svg",
+      "file": "graphics/figures/rwa-lifecycle.svg",
+      "bytes": 29728,
+      "sha256": "ff46bbe9051fc0033e9416544091a42eb8780e40c761c235f390ffa768c0b5fd"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/rwa-taxonomy.svg",
+      "file": "graphics/figures/rwa-taxonomy.svg",
+      "bytes": 30594,
+      "sha256": "3f855326b72dd5a83937f800588fb2ec0a117e3803190b0908dc12a0bda99204"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/seal-flow.svg",
+      "file": "graphics/figures/seal-flow.svg",
+      "bytes": 99604,
+      "sha256": "757f8375bb3c48091b966c978c11abcfabef2fd77c6b3fff0ef041e1c94409f0"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/sequence-mint.svg",
+      "file": "graphics/figures/sequence-mint.svg",
+      "bytes": 59225,
+      "sha256": "b15fe05286d1b17b58f3593ac009a194eeeb6710426cc70f70b75c6ec8e7a6a7"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/sequence-read-public.svg",
+      "file": "graphics/figures/sequence-read-public.svg",
+      "bytes": 28931,
+      "sha256": "15de907372350ec7cb18af53aae4ed0e2ee72d3a03f9aef9d33f05e4529814ae"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/sequence-read-seal.svg",
+      "file": "graphics/figures/sequence-read-seal.svg",
+      "bytes": 48028,
+      "sha256": "acaa23b58561f6a75158f1e350e5389b1d600b6268e5c3844d6d85fd64b4eec8"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/smr-architecture.svg",
+      "file": "graphics/figures/smr-architecture.svg",
+      "bytes": 34236,
+      "sha256": "ecbd457454178cbd5d4e8df76c87f1e400c64a83b6bad3f13271ee87c6cd1a3e"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/stake-lifecycle.svg",
+      "file": "graphics/figures/stake-lifecycle.svg",
+      "bytes": 16488,
+      "sha256": "1320fd3da9bab3079e325365f04b861b0f070c41bc457971cfc1e5ddb6b0a274"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/state-machine.svg",
+      "file": "graphics/figures/state-machine.svg",
+      "bytes": 28795,
+      "sha256": "21f6ac0aef98f1b1bfa03ea14bdfd2b6b07fd426d1698e5552382a6b267e1bb0"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/sui-two-paths.svg",
+      "file": "graphics/figures/sui-two-paths.svg",
+      "bytes": 84650,
+      "sha256": "959e7dacd0ba8c55fdbf6a74d4a5ede70e72560d8f432fb04ec042a20abafdc8"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/tamper-evident.svg",
+      "file": "graphics/figures/tamper-evident.svg",
+      "bytes": 30875,
+      "sha256": "e0aa03ddcad6c9a087d1c0371cab746b86c03a16d562ae702d58056cae0e52de"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-abstract-page-greek.svg",
+      "file": "graphics/figures/template-abstract-page-greek.svg",
+      "bytes": 1052869,
+      "sha256": "f94a5080b5344756a7c8df688fa146d42e4fac5c2f3527229f52ebeeeeb17b1d"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-back-cover-greek-no-annotations.svg",
+      "file": "graphics/figures/template-back-cover-greek-no-annotations.svg",
+      "bytes": 199533,
+      "sha256": "d349c884305e9899328272f8592cacb391f92683e2b63ef1fc9ed27d45efdfe3"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-back-cover-greek.svg",
+      "file": "graphics/figures/template-back-cover-greek.svg",
+      "bytes": 1082042,
+      "sha256": "17aec50bec550baf9c952732494cec504b084e3d0b3099a45ba4991067b40223"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-copyright-page-greek-greek-no-annotations.svg",
+      "file": "graphics/figures/template-copyright-page-greek-greek-no-annotations.svg",
+      "bytes": 358295,
+      "sha256": "07313082da49d70015b369fec56b498b9a0dbf8cda5fd0b9f16c1826a0d67872"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-copyright-page-greek.svg",
+      "file": "graphics/figures/template-copyright-page-greek.svg",
+      "bytes": 1232991,
+      "sha256": "b3b6610500b6eb28d9f60cf0749337d01aeed43dec82a1f2f2791728ec34327f"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-dedication-page-greek.svg",
+      "file": "graphics/figures/template-dedication-page-greek.svg",
+      "bytes": 843539,
+      "sha256": "54752e97d718b3daf25ec6d1de9c7db1319286434529599fdd0096d5823e3f2e"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-examination-committee-page-greek-no-annotations.svg",
+      "file": "graphics/figures/template-examination-committee-page-greek-no-annotations.svg",
+      "bytes": 470399,
+      "sha256": "2d4c7d8364c16c655b4b8419c451c346579ee7fe8ff15659e47bd88f25a57cbc"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-examination-committee-page-greek.svg",
+      "file": "graphics/figures/template-examination-committee-page-greek.svg",
+      "bytes": 1226793,
+      "sha256": "58ec8fc9a628c1f600c98b7637a3874916396c542df356767f2278112636fe47"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-front-cover-greek-no-annotations.svg",
+      "file": "graphics/figures/template-front-cover-greek-no-annotations.svg",
+      "bytes": 337032,
+      "sha256": "63830483fbb4d08cd50ae622cd19464d5c7c32aaf36a532af3a4c9811ed0057f"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-front-cover-greek.svg",
+      "file": "graphics/figures/template-front-cover-greek.svg",
+      "bytes": 746096,
+      "sha256": "e05231f889bd18dbf97fda6d1006af215b25e5906ef0caa01e8d8bf8c0777844"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-full-cover-greek-no-annotations.svg",
+      "file": "graphics/figures/template-full-cover-greek-no-annotations.svg",
+      "bytes": 694880,
+      "sha256": "a55190295921bcc8eccccec5bc9108aae7293bc20bd553ec048fa7c5cdf19b0a"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-full-cover-greek.svg",
+      "file": "graphics/figures/template-full-cover-greek.svg",
+      "bytes": 1638572,
+      "sha256": "481d67fe13beb9497910ef206f9fa4f749c6a19f7e010350d3898ef5445b76f0"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-margins-english.svg",
+      "file": "graphics/figures/template-margins-english.svg",
+      "bytes": 39485,
+      "sha256": "ea8d537b60f574b51e66636388349bd071c5e2f92503ad15c76822f9a87512a8"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-margins-greek.svg",
+      "file": "graphics/figures/template-margins-greek.svg",
+      "bytes": 39516,
+      "sha256": "9f84dfe984109e8521c2775bacfb44515c49a6179bb8e2f57a420d856e0f8624"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-numless-contents-greek.svg",
+      "file": "graphics/figures/template-numless-contents-greek.svg",
+      "bytes": 138339,
+      "sha256": "c3e309e74fed20aefad5a6e9ae5b9d5bfcb2e3c245692cfdf7240e0065cc5066"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-numless-greek.svg",
+      "file": "graphics/figures/template-numless-greek.svg",
+      "bytes": 84321,
+      "sha256": "6b7a3a19f1978603e073c871b14f79e22e4c16a3d8a85cbbe9b2694c41430108"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-part-page-greek.svg",
+      "file": "graphics/figures/template-part-page-greek.svg",
+      "bytes": 832150,
+      "sha256": "8b0fd244e2f9b66b26eccc5d160ed86b01820780844ba6516b1778d65a217b0d"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-perilipsi-page-greek.svg",
+      "file": "graphics/figures/template-perilipsi-page-greek.svg",
+      "bytes": 1093460,
+      "sha256": "09f4c3a3cf2183e16023d259b123013cffa9c0ca74cbe773edbe36a89322cc7c"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/template-spine.svg",
+      "file": "graphics/figures/template-spine.svg",
+      "bytes": 313319,
+      "sha256": "be5d47293f1e85b94df7173673035d0c6ae27f250439f6009101fa285b384cb5"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/theory-oracles-inbound.svg",
+      "file": "graphics/figures/theory-oracles-inbound.svg",
+      "bytes": 251236,
+      "sha256": "47b1243a9362d177b53c2c99b3aeac2604d94a19d98b964101295962efd5fa1e"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/theory-oracles-outbound.svg",
+      "file": "graphics/figures/theory-oracles-outbound.svg",
+      "bytes": 215162,
+      "sha256": "916fa0844bff248cb2fc7af0b5f3fd0d0259e82587f112dcb069004c4eb50e46"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/very-abstract-computer-stack.svg",
+      "file": "graphics/figures/very-abstract-computer-stack.svg",
+      "bytes": 6226,
+      "sha256": "5766b540030b4a2246d3460a4e31e50b96928e97ed6094082e23f8f814f52596"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/figures/walrus-sites-portal-diagram-with-quilts.svg",
+      "file": "graphics/figures/walrus-sites-portal-diagram-with-quilts.svg",
+      "bytes": 155178,
+      "sha256": "e83216b897c73e3edad4851268b13fa473cecc4b79748089bcfa08297f1303e4"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/logo of dApp.svg",
+      "file": "graphics/logo of dApp.svg",
+      "bytes": 4352,
+      "sha256": "2a71dfda37e2e3c3df2f81206bc1b0099d7adcbd6136e1cf73b58798597c1397"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/blank-a4-page-with-margins.svg",
+      "file": "graphics/raw_figures/blank-a4-page-with-margins.svg",
+      "bytes": 4746,
+      "sha256": "c788e8b9503bab0e1fa877344fca210b56743ca27129e40fcc04b76d17ac24f3"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-bgp-impossibility.svg",
+      "file": "graphics/raw_figures/raw-bgp-impossibility.svg",
+      "bytes": 41109,
+      "sha256": "e381bd52d80407c712e0b899b5d77f6a61502b450520d9ca962078830dd5df48"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-cap-partition.svg",
+      "file": "graphics/raw_figures/raw-cap-partition.svg",
+      "bytes": 17988,
+      "sha256": "d74d6b1c6177dc891866d881bdc7574d8a01f024d5e3fdbad7b8a35ddbe1e300"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flm-hexagon.svg",
+      "file": "graphics/raw_figures/raw-flm-hexagon.svg",
+      "bytes": 20801,
+      "sha256": "b7283f88fdf5e5302a41196a80277697f2c767516446ec96c130d8979bb962dc"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flm-sim-1.svg",
+      "file": "graphics/raw_figures/raw-flm-sim-1.svg",
+      "bytes": 32668,
+      "sha256": "90ef290348d9fe3a4c5c60b7996b5cac7bcc74c9e987feca959fdf22d1861647"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flm-sim-2.svg",
+      "file": "graphics/raw_figures/raw-flm-sim-2.svg",
+      "bytes": 33362,
+      "sha256": "e917ce3294ff26f24d03e11b2bf609455b202d67c7ce8bfbe49d58948d8b86ab"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flm-sim-3.svg",
+      "file": "graphics/raw_figures/raw-flm-sim-3.svg",
+      "bytes": 32846,
+      "sha256": "c8fa78cbbd8c8323d538a058ed972de3fad203e781c77339f9bc378ad07ddaae"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flp-config-graph.svg",
+      "file": "graphics/raw_figures/raw-flp-config-graph.svg",
+      "bytes": 28818,
+      "sha256": "8c0330a9e74adc257612a4bdb05e11f8d1edcb3a3fe22e0d6c87f8c07fd17241"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flp-extend.svg",
+      "file": "graphics/raw_figures/raw-flp-extend.svg",
+      "bytes": 25511,
+      "sha256": "c2c0f67d357da54248acc2c449d31096f8dc7cf93f19d5ba52efaa916f2fe249"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flp-pivotal.svg",
+      "file": "graphics/raw_figures/raw-flp-pivotal.svg",
+      "bytes": 24380,
+      "sha256": "5ba27ed69e35d9cdce8a4d61bffc3c770a14ba96352d295124fb9d668691f955"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flp-search.svg",
+      "file": "graphics/raw_figures/raw-flp-search.svg",
+      "bytes": 23949,
+      "sha256": "aa48d0cde45941a5cfdee5851f3f382ec8ab26b2baa446cff0d76bf1b4a9255f"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-flp-sequence.svg",
+      "file": "graphics/raw_figures/raw-flp-sequence.svg",
+      "bytes": 31419,
+      "sha256": "c2021780f1d307d0d92532e543ccfb823e2c6ad91e932367a22b4a582ac005d1"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-hash-chain.svg",
+      "file": "graphics/raw_figures/raw-hash-chain.svg",
+      "bytes": 20387,
+      "sha256": "5e0bf5861a76c962aa4afae2ba3a8890bf3126b2ae5e994e8f84c7d662c8fa09"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-hash-collisions.svg",
+      "file": "graphics/raw_figures/raw-hash-collisions.svg",
+      "bytes": 12996,
+      "sha256": "6197fcfd24ec1a13c38204f3c9fcc87db2dbdebb8b395b336c25fbe5ae7233c9"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-hash-pointer.svg",
+      "file": "graphics/raw_figures/raw-hash-pointer.svg",
+      "bytes": 9540,
+      "sha256": "834b27d70569dfbf0a79a374a7c6d581a2f8cdf9713b6540e10546c00e485b30"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-merkle-proof.svg",
+      "file": "graphics/raw_figures/raw-merkle-proof.svg",
+      "bytes": 24412,
+      "sha256": "59618f5486db2399fdcfaa86955d23853d73a7174de85e10cc7c29969e0634cb"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-merkle-tree.svg",
+      "file": "graphics/raw_figures/raw-merkle-tree.svg",
+      "bytes": 55115,
+      "sha256": "964167cc7a2424aad616c46d6ad74e29983696a4a63690cbab06d41867bfe978"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-nautilus-lifecycle.svg",
+      "file": "graphics/raw_figures/raw-nautilus-lifecycle.svg",
+      "bytes": 42992,
+      "sha256": "89f5b0a822841cf5eb71a9cf0315eedf472e6439ef48ce64714a17a8b9e78839"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-nitro-enclave.svg",
+      "file": "graphics/raw_figures/raw-nitro-enclave.svg",
+      "bytes": 20191,
+      "sha256": "01d8ed2e66a8012310c412055bec38511be046abe94e8a1822082d7c17ef3d79"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-oracle-flow.svg",
+      "file": "graphics/raw_figures/raw-oracle-flow.svg",
+      "bytes": 37632,
+      "sha256": "9e2871c4dd6343b97f3ceac913c57922aed028d11c364eb66b8bb384c435944f"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-oracle.svg",
+      "file": "graphics/raw_figures/raw-oracle.svg",
+      "bytes": 32568,
+      "sha256": "5a0377b7de8f1dce9d6afb11d4c45d744068ecac3f0f2baa90a5bc168093d353"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-psync-abc.svg",
+      "file": "graphics/raw_figures/raw-psync-abc.svg",
+      "bytes": 18611,
+      "sha256": "675aaea3151c3ca4121fb2293f4710163b37e927df5ef01ba147b0f29a2712e3"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-redstuff-encoding.svg",
+      "file": "graphics/raw_figures/raw-redstuff-encoding.svg",
+      "bytes": 159712,
+      "sha256": "7f5d5c6e03cc80117f61a105ff8164d255bb8340e10ed03bc4bcdf59c1b2fec7"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-rwa-dual-state.svg",
+      "file": "graphics/raw_figures/raw-rwa-dual-state.svg",
+      "bytes": 23930,
+      "sha256": "3c4134eb3733b4558b6b4dd104dea498fdc7ded0cd4485158e030462bda1aaa2"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-rwa-lifecycle.svg",
+      "file": "graphics/raw_figures/raw-rwa-lifecycle.svg",
+      "bytes": 35211,
+      "sha256": "5ee8b5d09674bd55fe8a4921b89c49686ae8bca8e270f05eca32499a71577ef2"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-smr-architecture.svg",
+      "file": "graphics/raw_figures/raw-smr-architecture.svg",
+      "bytes": 36994,
+      "sha256": "bda43ec2fb4ef24a7261d39d7907fb4cec3f1d53cec3b71bf4bb48b35b38820c"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-stake-lifecycle.svg",
+      "file": "graphics/raw_figures/raw-stake-lifecycle.svg",
+      "bytes": 22863,
+      "sha256": "bcf9265021a2e01e3416f649ccdb7a6b4ba9f67eff45dfdf5b159e6f0e41cb31"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-state-machine.svg",
+      "file": "graphics/raw_figures/raw-state-machine.svg",
+      "bytes": 31471,
+      "sha256": "08d93b9117bc79b1196158afbe4a888ea47908585da866fd610f5f5253b1754f"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-tamper-evident.svg",
+      "file": "graphics/raw_figures/raw-tamper-evident.svg",
+      "bytes": 33610,
+      "sha256": "6af666d6548ba4ffaff9736eca9d8341102602bbb1532fa4e1a3577ff3ebea2f"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-abstract-page-greek.svg",
+      "file": "graphics/raw_figures/raw-template-abstract-page-greek.svg",
+      "bytes": 1166110,
+      "sha256": "4b93d112d1b8eaab7b2a30f8334463825522fa76ec8dc0920fc2291c7462a641"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-back-cover-greek.svg",
+      "file": "graphics/raw_figures/raw-template-back-cover-greek.svg",
+      "bytes": 1192648,
+      "sha256": "36b78f046812641b016b0ecb692f2e0add06e6fc707f260e451c75744dfd9d19"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-copyright-page-greek.svg",
+      "file": "graphics/raw_figures/raw-template-copyright-page-greek.svg",
+      "bytes": 1339172,
+      "sha256": "90b2a8ba8b21d13362360082427c81043657d9b05f608481e39467519fcff278"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-dedication-page-greek.svg",
+      "file": "graphics/raw_figures/raw-template-dedication-page-greek.svg",
+      "bytes": 943997,
+      "sha256": "768c5242c6b8eedd500f833e571b7ab0c30752b2dc1143b27758d8a7b732028a"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-examination-committee-page-greek.svg",
+      "file": "graphics/raw_figures/raw-template-examination-committee-page-greek.svg",
+      "bytes": 1323482,
+      "sha256": "678ce44eaa41bcfcf7eb0d2a86f3667554d6c7007de11ae16a89742ebb56073a"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-front-cover-greek.svg",
+      "file": "graphics/raw_figures/raw-template-front-cover-greek.svg",
+      "bytes": 791284,
+      "sha256": "6af6bc2fb35ad4e1de9722fc6594f9578e1481256d61c0e4134b20dc2a9cfd13"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-full-cover-greek.svg",
+      "file": "graphics/raw_figures/raw-template-full-cover-greek.svg",
+      "bytes": 1774793,
+      "sha256": "d17b8ab13c46d13c2debb5b18b3ed390fd968423975de90e0a01b91030aca98d"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-margins-english.svg",
+      "file": "graphics/raw_figures/raw-template-margins-english.svg",
+      "bytes": 42245,
+      "sha256": "6b25bcfd0bb7a7d09135eff39691e1f63d53f0b9b9420b5bcbb85840f07ba876"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-margins-greek.svg",
+      "file": "graphics/raw_figures/raw-template-margins-greek.svg",
+      "bytes": 42276,
+      "sha256": "3f8cbf4a453b8ca9cc23f17819bf3734de0b81cb31129bd8bdb3b68062a08f7f"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-part-page-greek.svg",
+      "file": "graphics/raw_figures/raw-template-part-page-greek.svg",
+      "bytes": 930756,
+      "sha256": "f909bed9908373ae4e1437d55736d9870331d5ae3f3a0d9932094a411ca7e67d"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/raw-template-perilipsi-page-greek.svg",
+      "file": "graphics/raw_figures/raw-template-perilipsi-page-greek.svg",
+      "bytes": 1205981,
+      "sha256": "39cd3b84323fd92c2922e77dccb80c4521104ec02112a3573d8216fb96da0e71"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/rwa-taxonomy.eddx",
+      "file": "graphics/raw_figures/rwa-taxonomy.eddx",
+      "bytes": 6849,
+      "sha256": "df3123336c04f3ae8472aae218d43ee69164412dc94b98dc6c250f86d4835d2b"
+    },
+    {
+      "source": "Συμπληρωματικό Υλικό/Σχήματα και γραφικά που σχεδίασα με το Inkscape/raw_figures/web3-temporary.svg",
+      "file": "graphics/raw_figures/web3-temporary.svg",
+      "bytes": 32251,
+      "sha256": "e40a1d2bc8297c3a02b64acbb7b36403e844adbf1799a9c0555e55fa410b385b"
+    }
+  ]
+}

@@ -2,22 +2,46 @@
 
 **Art Tokenization on Sui**
 
-A diploma thesis and research prototype for physical artwork tokenization on Sui:
-certification, fractional ownership, a marketplace with artist royalties, and
-verifiable condition reports from external sources.
+The thesis, application code, diagrams, screenshots, demonstration videos and
+editable graphics for my diploma thesis at NTUA.
+
+The project explores physical artwork tokenization on Sui through certification,
+fractional ownership, a marketplace with artist royalties, and verifiable
+condition reports from external sources.
 
 **Nikolaos Tziris**
 
 School of Electrical and Computer Engineering, NTUA. 2026.
 
 - [Read the thesis in the NTUA Library](https://artemis.ece.ntua.gr/handle/123456789/20365)
-- [Watch the demonstrations](docs/videos/README.md)
+- [Watch the demonstrations](videos/README.md)
 - [Deployment guide](code/README.md)
 - [Build the thesis](thesis/README.md)
 - [Typst template](https://github.com/ntziris/ntua-thesis-template-greek)
 - [Reproduce the evaluation](docs/reproducibility.md)
 
 ![Application home page](docs/images/application.png)
+
+## Thesis deliverables
+
+The repository follows the organization of the submitted deliverables.
+
+| Material | Contents |
+| --- | --- |
+| [Thesis PDF](thesis.pdf) | Submitted thesis document, 157 pages |
+| [Thesis PDF with a color cover](thesis-color.pdf) | Submitted decorated edition, 160 pages |
+| [Application source](code/) | Smart contracts, frontend, oracle and supporting tools |
+| [UML diagrams](diagrams/README.md) | 14 diagrams in PNG, SVG and editable Visual Paradigm formats |
+| [Screenshots](screenshots/README.md) | All 28 submitted interface screenshots |
+| [Videos](videos/README.md) | All 14 demonstration recordings |
+| [Thesis source](thesis/) | Typst text, bibliography, assets and evaluation data |
+| [Graphics](graphics/README.md) | 126 illustration and design files, including editable drawings |
+| [Typst template](https://github.com/ntziris/ntua-thesis-template-greek) | Reusable template in its own repository |
+
+The two PDFs above are preserved from the deliverable bundle dated
+29 September 2026. They precede the later library formatting and bibliography
+corrections included in the Typst source. For the published document, use the
+[NTUA Library record](https://artemis.ece.ntua.gr/handle/123456789/20365).
 
 ## Features
 
@@ -39,21 +63,23 @@ production service.
 The screenshots show the Greek interface and the main stages of the artwork
 lifecycle. Open an image to see it at full size.
 
+[Browse all 28 screenshots](screenshots/README.md).
+
 | Artwork issuance | Certificate of authenticity |
 | --- | --- |
-| ![Artwork issuance form](thesis/assets/screenshots/chap5/mint.png) | ![Artwork page showing its gallery certificate](thesis/assets/screenshots/chap5/artwork-certified.png) |
+| ![Artwork issuance form](screenshots/mint.png) | ![Artwork page showing its gallery certificate](screenshots/artwork-certified.png) |
 
 | Fractional ownership | Purchase and royalty breakdown |
 | --- | --- |
-| ![Creating fractions of an artwork](thesis/assets/screenshots/chap5/fractionalize.png) | ![Purchase payment split between the seller and the artist](thesis/assets/screenshots/chap5/payment-breakdown.png) |
+| ![Creating fractions of an artwork](screenshots/fractionalize.png) | ![Purchase payment split between the seller and the artist](screenshots/payment-breakdown.png) |
 
 | High-resolution image access with Seal | External source simulator |
 | --- | --- |
-| ![Authorized access to the encrypted artwork image](thesis/assets/screenshots/chap5/seal-granted.png) | ![Simulator sending signed artwork condition readings](thesis/assets/screenshots/chap5/source-simulator.png) |
+| ![Authorized access to the encrypted artwork image](screenshots/seal-granted.png) | ![Simulator sending signed artwork condition readings](screenshots/source-simulator.png) |
 
 | Artwork history | Certificate verification |
 | --- | --- |
-| ![Recorded events in an artwork's history](thesis/assets/screenshots/chap5/artwork-history.png) | ![Public artwork verification interface](thesis/assets/screenshots/chap5/verify.png) |
+| ![Recorded events in an artwork's history](screenshots/artwork-history.png) | ![Public artwork verification interface](screenshots/verify.png) |
 
 ## Video demonstrations
 
@@ -64,34 +90,27 @@ file and open it in a browser or media player.
 
 | Issue an artwork | Create fractional ownership |
 | --- | --- |
-| [![Open the artwork issuance video](docs/images/videos/03-issue-artwork.jpg)](docs/videos/03-issue-artwork.webm) | [![Open the fractional ownership video](docs/images/videos/06-fractionalize-artwork.jpg)](docs/videos/06-fractionalize-artwork.webm) |
+| [![Open the artwork issuance video](docs/images/videos/03-issue-artwork.jpg)](videos/03-issue-artwork.webm) | [![Open the fractional ownership video](docs/images/videos/06-fractionalize-artwork.jpg)](videos/06-fractionalize-artwork.webm) |
 
 | Buy fractions and pay royalties | Submit an external condition report |
 | --- | --- |
-| [![Open the purchase and royalty video](docs/images/videos/08-buy-fractions-royalty.jpg)](docs/videos/08-buy-fractions-royalty.webm) | [![Open the external report video](docs/images/videos/12-submit-condition-report.jpg)](docs/videos/12-submit-condition-report.webm) |
+| [![Open the purchase and royalty video](docs/images/videos/08-buy-fractions-royalty.jpg)](videos/08-buy-fractions-royalty.webm) | [![Open the external report video](docs/images/videos/12-submit-condition-report.jpg)](videos/12-submit-condition-report.webm) |
 
-[Browse all 14 demonstration videos](docs/videos/README.md), including wallet
+[Browse all 14 demonstration videos](videos/README.md), including wallet
 connection, gallery custody, certification, Seal access, source registration,
 loss declarations, and fraction burning.
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    Browser[React interface and wallet] --> Sui[Sui Move contracts]
-    Browser --> Walrus[Walrus file storage]
-    Browser --> Seal[Seal key servers]
-    Sites[Walrus Site through a portal] --> Browser
-    Sources[Signed external readings] --> Oracle[Rust oracle in a Nitro Enclave]
-    Oracle --> Sui
-```
+[![Application component diagram](diagrams/components.png)](diagrams/components.svg)
 
 The browser reads chain state and submits wallet-signed transactions directly.
 The oracle handles the external report channel. The
-[thesis diagrams](thesis/assets/figures/chap4/) document the object model,
-trust boundaries, and transaction flows.
+[14 UML diagrams](diagrams/README.md) document the object model, trust boundaries,
+artwork lifecycle and transaction flows. Each diagram includes its editable
+Visual Paradigm project and PNG and SVG exports.
 
-## Repository layout
+## Application source
 
 | Directory | Contents |
 | --- | --- |
@@ -102,8 +121,6 @@ trust boundaries, and transaction flows.
 | `code/scripts/` | Deployment and operation scripts |
 | `code/portal/` | Walrus Sites portal configuration |
 | `code/certificates/` | Printable certificate generator |
-| `thesis/` | Greek thesis source, figures, screenshots, and evaluation data |
-| `docs/` | Demonstration videos, reproduction instructions, and project provenance |
 
 ## Run the interface
 

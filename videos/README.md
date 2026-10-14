@@ -51,5 +51,5 @@ The recordings show demonstration accounts and testnet transactions. They are
 historical demonstrations and do not establish the current availability of the
 deployment.
 
-Copyright (c) 2026 Nikolaos Tziris. See the repository [rights notice](../../LICENSE.md)
+Copyright (c) 2026 Nikolaos Tziris. See the repository [rights notice](../LICENSE.md)
 for original material, the published thesis terms, and third-party exceptions.

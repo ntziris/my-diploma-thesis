@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 496.13437 288.20001"
+   width="496.13437"
+   height="288.20001"
+   version="1.1"
+   id="svg102"
+   sodipodi:docname="oracle-immediate-read.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview102"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.3308032"
+     inkscape:cx="169.44654"
+     inkscape:cy="99.939647"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="group35" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="watermark_linear"
+       x1="50.181801"
+       y1="56"
+       y2="-11.9045"
+       x2="3.4974699"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0066FF"
+         id="stop1" />
+      <stop
+         stop-color="#66CCFF"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="page1"
+     transform="translate(-1401.7047,-279.18504)">
+    <g
+       id="group1"
+       transform="translate(1638.3391,279.68504)">
+      <path
+         fill="#dca2ff"
+         d="M 0,0 H 259 V 196.5 H 0 Z"
+         id="shape2"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      <g
+         id="group3"
+         transform="translate(230.98373,10)">
+        <path
+           fill="#dca2ff"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape4"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#dca2ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape5"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#dca2ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape6"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#24143a;fill-opacity:1"
+         xml:space="preserve"
+         id="text2"><tspan
+           y="19"
+           x="90.800003"
+           id="tspan2"
+           style="fill:#24143a;fill-opacity:1">Blockchain</tspan></text>
+    </g>
+    <g
+       id="group7"
+       transform="translate(1402.2047,279.68504)">
+      <path
+         fill="#d2e18f"
+         d="M 0,0 H 192.7 V 287.2 H 0 Z"
+         id="shape8"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#b5d5b8;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      <g
+         id="group9"
+         transform="translate(164.66858,10)">
+        <path
+           fill="#d2e18f"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape10"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#b5d5b8;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#d2e18f"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape11"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#b5d5b8;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#d2e18f"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape12"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#b5d5b8;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#122a13;fill-opacity:1"
+         xml:space="preserve"
+         id="text4"><tspan
+           y="19"
+           x="37.200001"
+           id="tspan3"
+           style="fill:#122a13;fill-opacity:1">Immediate-Read</tspan><tspan
+           y="38"
+           x="72.800003"
+           id="tspan4"
+           style="fill:#122a13;fill-opacity:1">Oracle</tspan></text>
+    </g>
+    <g
+       id="group14"
+       transform="translate(1427.933,326.77978)">
+      <path
+         fill="#99bd25"
+         d="M 0,0 H 119 V 53.6 H 0 Z"
+         id="shape15"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      <g
+         id="group16"
+         transform="translate(91.020491,10)">
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape17"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape18"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape19"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Microsoft YaHei', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#122a13;fill-opacity:1"
+         xml:space="preserve"
+         id="text6"><tspan
+           y="21.799999"
+           x="4"
+           id="tspan5"
+           style="fill:#122a13;fill-opacity:1">Blockchain</tspan><tspan
+           y="43.799999"
+           x="4"
+           id="tspan6"
+           style="fill:#122a13;fill-opacity:1">Writer</tspan></text>
+    </g>
+    <g
+       id="group20"
+       transform="translate(1589.205,347.93333)">
+      <path
+         fill="none"
+         d="M 5.7,5.7 H 19.6"
+         id="shape21"
+         stroke-width="1"
+         stroke="#101843"
+         style="stroke:#122a13;stroke-opacity:1" />
+      <path
+         fill="#b3d04b"
+         d="M 0,0 H 11.3 V 11.3 H 0 Z"
+         id="shape22"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      <path
+         fill="none"
+         d="M 11.7,23.3 C 5.2,23.3 0,18.1 0,11.7 C 0,5.2 5.2,0 11.7,0"
+         id="shape23"
+         stroke-width="1"
+         transform="translate(19.5669,-6)"
+         stroke="#101843"
+         style="stroke:#122a13;stroke-opacity:1" />
+    </g>
+    <g
+       id="shape24"
+       transform="translate(1557.599,343.12238)">
+      <path
+         fill="#b3d04b"
+         d="M 6,10.5 C 6,8 8,6 10.5,6 C 13,6 15,8 15,10.5 v 0 C 15,13 13,15 10.5,15 C 8,15 6,13 6,10.5 m -16.6,0 H 6 m 15,0 h 11.8"
+         fill-rule="nonzero"
+         id="path6"
+         style="fill:#6a9e70;fill-opacity:1" />
+      <path
+         fill="none"
+         d="M 10.5,0 C 16.3,0 21,4.7 21,10.5 C 21,16.3 16.3,21 10.5,21 M 6,10.5 C 6,8 8,6 10.5,6 C 13,6 15,8 15,10.5 v 0 C 15,13 13,15 10.5,15 C 8,15 6,13 6,10.5 m -16.6,0 H 6 m 15,0 h 11.8"
+         stroke-width="1"
+         stroke="#101843"
+         id="path7"
+         style="stroke:#122a13;stroke-opacity:1" />
+    </g>
+    <g
+       id="group25"
+       transform="translate(1633.787,347.93333)">
+      <path
+         fill="#9b51e0"
+         d="m 5.7,5.7 h -19"
+         id="shape26"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="stroke:#24143a;stroke-opacity:1" />
+      <path
+         fill="#9b51e0"
+         d="M 0,0 H 11.3 V 11.3 H 0 Z"
+         id="shape27"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      <path
+         fill="#9b51e0"
+         d="M 0,5.7 C 0,2.5 2.5,0 5.7,0 c 3.1,0 5.6,2.5 5.6,5.7 c 0,3.1 -2.5,5.6 -5.6,5.6 C 2.5,11.3 0,8.8 0,5.7 Z"
+         id="shape28"
+         stroke-width="1"
+         transform="translate(-19.0151)"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+    </g>
+    <g
+       id="group29"
+       transform="translate(1427.933,414.52836)">
+      <path
+         fill="#99bd25"
+         d="M 0,0 H 119 V 53.6 H 0 Z"
+         id="shape30"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      <g
+         id="group31"
+         transform="translate(91.020491,10)">
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape32"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape33"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape34"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#122a13;fill-opacity:1"
+         xml:space="preserve"
+         id="text7"><tspan
+           y="32.299999"
+           x="4"
+           id="tspan7"
+           style="fill:#122a13;fill-opacity:1">Validator</tspan></text>
+    </g>
+    <g
+       id="group35"
+       transform="translate(1427.933,498.35697)">
+      <path
+         fill="#99bd25"
+         d="M 0,0 H 119 V 53.6 H 0 Z"
+         id="shape36"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      <g
+         id="group37"
+         transform="translate(91.020491,10)">
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape38"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape39"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+        <path
+           fill="#99bd25"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape40"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#122a13;fill-opacity:1"
+         xml:space="preserve"
+         id="text9"><tspan
+           y="22.799999"
+           x="4"
+           id="tspan8"
+           style="fill:#122a13;fill-opacity:1">Data </tspan><tspan
+           y="41.799999"
+           x="4"
+           id="tspan9"
+           style="fill:#122a13;fill-opacity:1">Collector</tspan></text>
+    </g>
+    <path
+       fill="none"
+       d="m 0,0 c 4.2,0 7.6,3.4 7.6,7.6 c 0,4.1 -3.4,7.5 -7.6,7.5 M 7.6,7.6 h 13.2"
+       id="shape41"
+       stroke-width="1"
+       transform="rotate(89.015954,547.2856,957.2554)"
+       stroke="#101843"
+       style="stroke:#122a13;stroke-opacity:1" />
+    <path
+       fill="none"
+       d="m 0,0 c 4.2,0 7.6,3.4 7.6,7.6 c 0,4.1 -3.4,7.5 -7.6,7.5 M 7.6,7.6 h 8"
+       id="shape42"
+       stroke-width="1"
+       transform="rotate(-89.268829,984.79012,-507.50354)"
+       stroke="#101843"
+       style="stroke:#122a13;stroke-opacity:1" />
+    <g
+       id="shape43"
+       transform="rotate(-90,990.06547,-491.7085)">
+      <path
+         fill="#b3d04b"
+         d="M 8,5.7 C 8,2.5 10.5,0 13.7,0 c 3.1,0 5.6,2.5 5.6,5.7 v 0 c 0,3.1 -2.5,5.6 -5.6,5.6 C 10.5,11.3 8,8.8 8,5.7 Z"
+         fill-rule="nonzero"
+         id="path9"
+         style="fill:#6a9e70;fill-opacity:1" />
+      <path
+         fill="none"
+         d="M 8,5.7 C 8,2.5 10.5,0 13.7,0 c 3.1,0 5.6,2.5 5.6,5.7 v 0 c 0,3.1 -2.5,5.6 -5.6,5.6 C 10.5,11.3 8,8.8 8,5.7 Z m -8,0 h 8"
+         stroke-width="1"
+         stroke="#101843"
+         id="path10"
+         style="stroke:#122a13;stroke-opacity:1" />
+    </g>
+    <g
+       id="shape44"
+       transform="rotate(90,556.34353,936.76901)">
+      <path
+         fill="#b3d04b"
+         d="M 7,5.7 C 7,2.5 9.5,0 12.6,0 c 3.2,0 5.7,2.5 5.7,5.7 v 0 c 0,3.1 -2.5,5.6 -5.7,5.6 C 9.5,11.3 7,8.8 7,5.7 Z"
+         fill-rule="nonzero"
+         id="path11"
+         style="fill:#6a9e70;fill-opacity:1" />
+      <path
+         fill="none"
+         d="M 7,5.7 C 7,2.5 9.5,0 12.6,0 c 3.2,0 5.7,2.5 5.7,5.7 v 0 c 0,3.1 -2.5,5.6 -5.7,5.6 C 9.5,11.3 7,8.8 7,5.7 Z m -7,0 h 7"
+         stroke-width="1"
+         stroke="#101843"
+         id="path12"
+         style="stroke:#122a13;stroke-opacity:1" />
+    </g>
+    <g
+       id="group45"
+       transform="translate(1639.4562,498.35697)">
+      <path
+         fill="#cecbba"
+         d="M 0,0 H 135.1 V 53.6 H 0 Z"
+         id="shape46"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#dadada;fill-opacity:1;stroke:#555555;stroke-opacity:1" />
+      <g
+         id="group47"
+         transform="translate(107.118,10)">
+        <path
+           fill="#cecbba"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape48"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#dadada;fill-opacity:1;stroke:#555555;stroke-opacity:1" />
+        <path
+           fill="#cecbba"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape49"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#dadada;fill-opacity:1;stroke:#555555;stroke-opacity:1" />
+        <path
+           fill="#cecbba"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape50"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#dadada;fill-opacity:1;stroke:#555555;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Microsoft YaHei', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#191919"
+         xml:space="preserve"
+         id="text13"><tspan
+           style="font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial"
+           y="21.5"
+           x="4.0999999"
+           id="tspan12"> Off-chain</tspan><tspan
+           y="42.5"
+           x="4.0999999"
+           id="tspan13"> Data Sources</tspan></text>
+    </g>
+    <g
+       id="shape51"
+       transform="translate(1557.599,514.67057)">
+      <path
+         fill="#b3d04b"
+         d="M 6,10.5 C 6,8 8,6 10.5,6 C 13,6 15,8 15,10.5 v 0 C 15,13 13,15 10.5,15 C 8,15 6,13 6,10.5 m -16.6,0 H 6 m 15,0 h 11.8"
+         fill-rule="nonzero"
+         id="path13"
+         style="fill:#6a9e70;fill-opacity:1" />
+      <path
+         fill="none"
+         d="M 10.5,0 C 16.3,0 21,4.7 21,10.5 C 21,16.3 16.3,21 10.5,21 M 6,10.5 C 6,8 8,6 10.5,6 C 13,6 15,8 15,10.5 v 0 C 15,13 13,15 10.5,15 C 8,15 6,13 6,10.5 m -16.6,0 H 6 m 15,0 h 11.8"
+         stroke-width="1"
+         stroke="#101843"
+         id="path14"
+         style="stroke:#122a13;stroke-opacity:1" />
+    </g>
+    <g
+       id="group52"
+       transform="translate(1589.205,519.48157)">
+      <path
+         fill="none"
+         d="M 5.7,5.7 H 19.6"
+         id="shape53"
+         stroke-width="1"
+         stroke="#101843"
+         style="stroke:#122a13;stroke-opacity:1" />
+      <path
+         fill="#b3d04b"
+         d="M 0,0 H 11.3 V 11.3 H 0 Z"
+         id="shape54"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#6a9e70;fill-opacity:1;stroke:#122a13;stroke-opacity:1" />
+      <path
+         fill="none"
+         d="M 11.7,23.3 C 5.2,23.3 0,18.1 0,11.7 C 0,5.2 5.2,0 11.7,0"
+         id="shape55"
+         stroke-width="1"
+         transform="translate(19.5669,-6)"
+         stroke="#101843"
+         style="stroke:#122a13;stroke-opacity:1" />
+    </g>
+    <g
+       id="group56"
+       transform="translate(1633.787,519.51058)">
+      <path
+         fill="#b3ad9d"
+         d="M 5.7,5.7 H -13.2"
+         id="shape57"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="stroke:#555555;stroke-opacity:1" />
+      <path
+         fill="#b3ad9d"
+         d="M 0,0 H 11.3 V 11.3 H 0 Z"
+         id="shape58"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#b0b0b0;fill-opacity:1;stroke:#555555;stroke-opacity:1" />
+      <path
+         fill="#b3ad9d"
+         d="M 0,5.7 C 0,2.5 2.5,0 5.7,0 c 3.1,0 5.6,2.5 5.6,5.7 c 0,3.1 -2.5,5.6 -5.6,5.6 C 2.5,11.3 0,8.8 0,5.7 Z"
+         id="shape59"
+         stroke-width="1"
+         transform="translate(-18.89759)"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#b0b0b0;fill-opacity:1;stroke:#555555;stroke-opacity:1" />
+    </g>
+    <g
+       id="group60"
+       transform="rotate(-90,1065.9183,-603.71742)">
+      <path
+         fill="#bf83ff"
+         d="M 0,0 H 144.7 V 53.8 H 0 Z"
+         id="shape61"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      <g
+         id="group62"
+         transform="translate(116.72053,10)">
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape63"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape64"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape65"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Microsoft YaHei', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#24143a;fill-opacity:1"
+         xml:space="preserve"
+         id="text15"><tspan
+           y="21"
+           x="4.4000001"
+           id="tspan14"
+           style="fill:#24143a;fill-opacity:1">Oracle Data</tspan><tspan
+           y="43"
+           x="4.4000001"
+           id="tspan15"
+           style="fill:#24143a;fill-opacity:1">Registry</tspan></text>
+    </g>
+    <g
+       id="shape66"
+       transform="rotate(-1.9763517,10914.505,-47508.799)">
+      <path
+         fill="#9b51e0"
+         d="M 6.5,5.7 C 6.5,2.5 9.1,0 12.2,0 c 3.1,0 5.7,2.5 5.7,5.7 v 0 c 0,3.1 -2.6,5.6 -5.7,5.6 C 9.1,11.3 6.5,8.8 6.5,5.7 Z"
+         fill-rule="nonzero"
+         id="path15"
+         style="fill:#7e6ba0;fill-opacity:1" />
+      <path
+         fill="none"
+         d="M 6.5,5.7 C 6.5,2.5 9.1,0 12.2,0 c 3.1,0 5.7,2.5 5.7,5.7 v 0 c 0,3.1 -2.6,5.6 -5.7,5.6 C 9.1,11.3 6.5,8.8 6.5,5.7 Z M 0,5.7 h 6.5"
+         stroke-width="1"
+         stroke="#101843"
+         id="path16"
+         style="stroke:#24143a;stroke-opacity:1" />
+    </g>
+    <path
+       fill="none"
+       d="M 0,0 H -7"
+       id="shape67"
+       stroke-width="1"
+       transform="translate(1669.6357,353.19011)"
+       stroke="#191919" />
+    <g
+       id="group68"
+       transform="translate(1766.8985,316.9648)">
+      <path
+         fill="#bf83ff"
+         d="M 0,0 H 119 V 38.3 H 0 Z"
+         id="shape69"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      <g
+         id="group70"
+         transform="translate(91.02,10)">
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape71"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape72"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape73"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#24143a;fill-opacity:1"
+         xml:space="preserve"
+         id="text16"><tspan
+           y="24.700001"
+           x="4"
+           id="tspan16"
+           style="fill:#24143a;fill-opacity:1">Contract A</tspan></text>
+    </g>
+    <g
+       id="group74"
+       transform="translate(1766.9004,370.42741)">
+      <path
+         fill="#bf83ff"
+         d="M 0,0 H 119 V 38.3 H 0 Z"
+         id="shape75"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      <g
+         id="group76"
+         transform="translate(91.02,10)">
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape77"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape78"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape79"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#24143a;fill-opacity:1"
+         xml:space="preserve"
+         id="text17"><tspan
+           y="25"
+           x="4"
+           id="tspan17"
+           style="fill:#24143a;fill-opacity:1">Contract B</tspan></text>
+    </g>
+    <g
+       id="group80"
+       transform="translate(1766.9004,423.89003)">
+      <path
+         fill="#bf83ff"
+         d="M 0,0 H 119 V 38.3 H 0 Z"
+         id="shape81"
+         stroke-width="1"
+         fill-rule="nonzero"
+         stroke="#101843"
+         style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      <g
+         id="group82"
+         transform="translate(91.02,10)">
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 15.2 V 20 H 0 Z"
+           id="shape83"
+           stroke-width="1"
+           transform="translate(4.8)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape84"
+           stroke-width="1"
+           transform="translate(0,3)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+        <path
+           fill="#bf83ff"
+           d="M 0,0 H 10 V 4 H 0 Z"
+           id="shape85"
+           stroke-width="1"
+           transform="translate(0,13)"
+           fill-rule="nonzero"
+           stroke="#101843"
+           style="fill:#7e6ba0;fill-opacity:1;stroke:#24143a;stroke-opacity:1" />
+      </g>
+      <text
+         style="font-size:16px;font-family:'Liberation Sans', 'PingFang SC', 'Mircrosoft YaHei', Arial;fill:#24143a;fill-opacity:1"
+         xml:space="preserve"
+         id="text18"><tspan
+           y="25"
+           x="4"
+           id="tspan18"
+           style="fill:#24143a;fill-opacity:1">Contract C</tspan></text>
+    </g>
+    <g
+       id="shape86"
+       transform="translate(1730.0666,324.78161)">
+      <path
+         fill="#9b51e0"
+         d="M 6,11.3 C 6,8.4 8.4,6 11.3,6 c 3,0 5.4,2.4 5.4,5.3 v 0 c 0,3 -2.4,5.4 -5.4,5.4 C 8.4,16.7 6,14.3 6,11.3 M -6.6,11.1 L 6,11.3 m 16.7,0 h 14.1"
+         fill-rule="nonzero"
+         id="path18"
+         style="fill:#7e6ba0;fill-opacity:1" />
+      <path
+         fill="none"
+         d="m 11.3,0 c 6.3,0 11.4,5.1 11.4,11.3 c 0,6.3 -5.1,11.4 -11.4,11.4 M 6,11.3 C 6,8.4 8.4,6 11.3,6 c 3,0 5.4,2.4 5.4,5.3 v 0 c 0,3 -2.4,5.4 -5.4,5.4 C 8.4,16.7 6,14.3 6,11.3 M -6.6,11.1 L 6,11.3 m 16.7,0 h 14.1"
+         stroke-width="1"
+         stroke="#101843"
+         id="path19"
+         style="stroke:#24143a;stroke-opacity:1" />
+    </g>
+    <g
+       id="shape87"
+       transform="translate(1730.0666,378.50198)">
+      <path
+         fill="#9b51e0"
+         d="M 6,11.3 C 6,8.4 8.4,6 11.3,6 c 3,0 5.4,2.4 5.4,5.3 v 0 c 0,3 -2.4,5.4 -5.4,5.4 C 8.4,16.7 6,14.3 6,11.3 M -6.6,11.1 L 6,11.3 m 16.7,0 h 14.1"
+         fill-rule="nonzero"
+         id="path20"
+         style="fill:#7e6ba0;fill-opacity:1" />
+      <path
+         fill="none"
+         d="m 11.3,0 c 6.3,0 11.4,5.1 11.4,11.3 c 0,6.3 -5.1,11.4 -11.4,11.4 M 6,11.3 C 6,8.4 8.4,6 11.3,6 c 3,0 5.4,2.4 5.4,5.3 v 0 c 0,3 -2.4,5.4 -5.4,5.4 C 8.4,16.7 6,14.3 6,11.3 M -6.6,11.1 L 6,11.3 m 16.7,0 h 14.1"
+         stroke-width="1"
+         stroke="#101843"
+         id="path21"
+         style="stroke:#24143a;stroke-opacity:1" />
+    </g>
+    <g
+       id="shape88"
+       transform="translate(1730.0666,431.70683)">
+      <path
+         fill="#9b51e0"
+         d="M 6,11.3 C 6,8.4 8.4,6 11.3,6 c 3,0 5.4,2.4 5.4,5.3 v 0 c 0,3 -2.4,5.4 -5.4,5.4 C 8.4,16.7 6,14.3 6,11.3 M -6.6,11.1 L 6,11.3 m 16.7,0 h 14.1"
+         fill-rule="nonzero"
+         id="path22"
+         style="fill:#7e6ba0;fill-opacity:1" />
+      <path
+         fill="none"
+         d="m 11.3,0 c 6.3,0 11.4,5.1 11.4,11.3 c 0,6.3 -5.1,11.4 -11.4,11.4 M 6,11.3 C 6,8.4 8.4,6 11.3,6 c 3,0 5.4,2.4 5.4,5.3 v 0 c 0,3 -2.4,5.4 -5.4,5.4 C 8.4,16.7 6,14.3 6,11.3 M -6.6,11.1 L 6,11.3 m 16.7,0 h 14.1"
+         stroke-width="1"
+         stroke="#101843"
+         id="path23"
+         style="stroke:#24143a;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="60.858402mm"
+   height="45.682396mm"
+   viewBox="0 0 230.01602 172.65788"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1" />
+    </marker>
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1;"
+         offset="1"
+         id="stop1" />
+    </linearGradient>
+    <pattern
+       xlink:href="#Strips1_8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern40"
+       patternTransform="matrix(1.4142136,1.4142136,-1.4142136,1.4142136,0,0)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8"
+       style="fill:#000000">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170" />
+    </pattern>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-211.2088,-205.23094)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient25"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-171.20881,-205.23093)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient26"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-131.20879,-205.23093)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient27"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-91.208785,-205.23093)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient28"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-51.208797,-205.23094)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-51.208797,-165.23093)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient34"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-91.208785,-165.23092)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient35"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-131.20879,-165.23092)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient36"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-171.20881,-165.23092)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient37"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-211.2088,-165.23092)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient42"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-51.208797,-125.23091)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient43"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-91.208785,-125.2309)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient44"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-131.20879,-125.2309)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient45"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-171.20881,-125.2309)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient46"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0154898,0,0,1.0154894,-211.2088,-125.23091)"
+       x1="236.64015"
+       y1="227.68819"
+       x2="273.48096"
+       y2="264.52899" />
+  </defs>
+  <g
+     id="layer2"
+     transform="translate(-148.20182,-122.00538)">
+    <path
+       id="path14"
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 V 1122.5196 H 793.70119 V 0 Z m 132.28321,94.488283 h 566.9297 V 1028.0313 h -566.9297 z" />
+    <path
+       id="path17"
+       style="opacity:0.6;fill:url(#pattern40);stroke:none;stroke-width:1.33333;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 V 1122.5196 H 793.70119 V 0 Z m 132.28321,94.488283 h 566.9297 V 1028.0313 h -566.9297 z" />
+  </g>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-148.20182,-122.00538)">
+    <path
+       style="display:none;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32283;stroke-dasharray:none"
+       d="M 132.28347,94.488211 H 699.21261 V 1028.0315 H 132.28347 Z"
+       id="path2" />
+  </g>
+  <rect
+     style="fill:url(#linearGradient7);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1-5-62"
+     width="40.000011"
+     height="40.000011"
+     x="29.096849"
+     y="25.983984" />
+  <rect
+     style="fill:url(#linearGradient25);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect25"
+     width="40.000011"
+     height="40.000011"
+     x="69.096855"
+     y="25.983984" />
+  <rect
+     style="fill:url(#linearGradient26);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect26"
+     width="40.000011"
+     height="40.000011"
+     x="109.09687"
+     y="25.983984" />
+  <rect
+     style="fill:url(#linearGradient27);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect27"
+     width="40.000011"
+     height="40.000011"
+     x="149.09686"
+     y="25.983984" />
+  <rect
+     style="fill:url(#linearGradient28);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect28"
+     width="40.000011"
+     height="40.000011"
+     x="189.09686"
+     y="25.983969" />
+  <rect
+     style="fill:url(#linearGradient37);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect29"
+     width="40.000011"
+     height="40.000011"
+     x="29.096849"
+     y="65.983994" />
+  <rect
+     style="fill:url(#linearGradient36);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect30"
+     width="40.000011"
+     height="40.000011"
+     x="69.096855"
+     y="65.983994" />
+  <rect
+     style="fill:url(#linearGradient35);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect31"
+     width="40.000011"
+     height="40.000011"
+     x="109.09687"
+     y="65.983994" />
+  <rect
+     style="fill:url(#linearGradient34);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect32"
+     width="40.000011"
+     height="40.000011"
+     x="149.09686"
+     y="65.983994" />
+  <rect
+     style="fill:url(#linearGradient33);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect33"
+     width="40.000011"
+     height="40.000011"
+     x="189.09686"
+     y="65.983978" />
+  <rect
+     style="fill:url(#linearGradient46);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect38"
+     width="40.000011"
+     height="40.000011"
+     x="29.096849"
+     y="105.98401" />
+  <rect
+     style="fill:url(#linearGradient45);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect39"
+     width="40.000011"
+     height="40.000011"
+     x="69.096855"
+     y="105.98401" />
+  <rect
+     style="fill:url(#linearGradient44);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect40"
+     width="40.000011"
+     height="40.000011"
+     x="109.09687"
+     y="105.98401" />
+  <rect
+     style="fill:url(#linearGradient43);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect41"
+     width="40.000011"
+     height="40.000011"
+     x="149.09686"
+     y="105.98401" />
+  <rect
+     style="fill:url(#linearGradient42);stroke:#555555;stroke-width:0.383807;stroke-dasharray:none;stroke-opacity:1"
+     id="rect42"
+     width="40.000011"
+     height="40.000011"
+     x="189.09686"
+     y="105.98399" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="114.15202"
+     y="11.327978"
+     id="text25-6"><tspan
+       x="114.15202"
+       y="11.327978"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan26-8">(α) Το blob ως πίνακας (f+1) x (2f+1)</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#c0c0c0;stroke-dasharray:1, 1;stroke-opacity:1"
+     d="M 29.28878,25.79209 H 2.6220991"
+     id="path46" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#c0c0c0;stroke-dasharray:1, 1;stroke-opacity:1"
+     d="M 29.09685,145.98402 2.6220991,145.7921"
+     id="path47" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#c0c0c0;stroke-dasharray:1, 1;stroke-opacity:1"
+     d="m 29.28877,172.45877 0.19192,-26.47475"
+     id="path48" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#c0c0c0;stroke-dasharray:1, 1;stroke-opacity:1"
+     d="m 228.59686,172.65427 0.19192,-26.47475"
+     id="path49" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#8f8f8f;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="-84.533432"
+     y="17.790102"
+     id="text49"
+     transform="rotate(-90)"><tspan
+       x="-84.533432"
+       y="17.790102"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#8f8f8f;fill-opacity:1;stroke:none"
+       id="tspan49">f+1 γραμμές</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#8f8f8f;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
+     d="M 15.95543,53.41588 V 26.74921"
+     id="path50" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#8f8f8f;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
+     d="M 15.95544,118.37543 V 145.0421"
+     id="path51" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#8f8f8f;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
+     d="M 95.95544,159.12543 H 29.99587"
+     id="path52" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#8f8f8f;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="129.31821"
+     y="163.50145"
+     id="text52"><tspan
+       x="129.31821"
+       y="163.50145"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#8f8f8f;fill-opacity:1;stroke:none"
+       id="tspan52">2f+1 στήλες</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#8f8f8f;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWide)"
+     d="m 161.73325,159.41689 h 65.95957"
+     id="path53" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="48.936859"
+     y="51.167992"
+     id="text53"><tspan
+       x="48.936859"
+       y="51.167992"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan53">S11</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="88.360878"
+     y="51.167992"
+     id="text54"><tspan
+       x="88.360878"
+       y="51.167992"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan54">S12</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="128.48886"
+     y="51.167992"
+     id="text55"><tspan
+       x="128.48886"
+       y="51.167992"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan55">S13</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="168.39288"
+     y="51.167992"
+     id="text56"><tspan
+       x="168.39288"
+       y="51.167992"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan56">S14</tspan><tspan
+       x="168.39288"
+       y="71.167984"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan57" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="208.29688"
+     y="51.167976"
+     id="text59"><tspan
+       x="208.29688"
+       y="51.167976"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan58">S15</tspan><tspan
+       x="208.29688"
+       y="71.167969"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan59" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="48.936859"
+     y="91.167999"
+     id="text60"><tspan
+       x="48.936859"
+       y="91.167999"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan60">S21</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="88.360878"
+     y="91.167999"
+     id="text61"><tspan
+       x="88.360878"
+       y="91.167999"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan61">S22</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="128.48886"
+     y="91.167999"
+     id="text62"><tspan
+       x="128.48886"
+       y="91.167999"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan62">S23</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="168.39288"
+     y="91.167999"
+     id="text63"><tspan
+       x="168.39288"
+       y="91.167999"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan63">S24</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="208.29688"
+     y="91.167984"
+     id="text64"><tspan
+       x="208.29688"
+       y="91.167984"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan64">S25</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="48.936859"
+     y="131.16801"
+     id="text65"><tspan
+       x="48.936859"
+       y="131.16801"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan65">S31</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="88.360878"
+     y="131.16801"
+     id="text66"><tspan
+       x="88.360878"
+       y="131.16801"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan66">S32</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="128.48886"
+     y="131.16801"
+     id="text67"><tspan
+       x="128.48886"
+       y="131.16801"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan67">S33</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="168.39288"
+     y="131.16801"
+     id="text68"><tspan
+       x="168.39288"
+       y="131.16801"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan68">S34</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;font-family:'Ioskeley Mono';-inkscape-font-specification:'Ioskeley Mono Light';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"
+     x="208.29688"
+     y="131.16801"
+     id="text69"><tspan
+       x="208.29688"
+       y="131.16801"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';fill:#555555;fill-opacity:1;stroke:none"
+       id="tspan69">S35</tspan></text>
+</svg>
