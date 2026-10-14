@@ -1,0 +1,68 @@
+# NTUA Thesis build recipes
+#
+# Run `just` to list available recipes.
+# Requires: typst, just
+# Cover:    also requires pdfinfo (poppler-utils).
+#
+# Output layout:
+#   dist/spiral/thesis-spiral.pdf      full PDF with embedded covers (spiral binding)
+#   dist/paperback/thesis-body.pdf     body-only PDF without covers  (paperback binding)
+#   dist/paperback/thesis-cover.pdf    book cover spread             (paperback binding)
+#   dist/library/thesis-library.pdf    full PDF without logo/borders/back cover (Artemis)
+
+spiral_dir    := "dist/spiral"
+paperback_dir := "dist/paperback"
+library_dir   := "dist/library"
+font_path     := "assets/fonts"
+
+# List available recipes
+default:
+    @just --list
+
+# Spiral binding
+# Full thesis PDF with embedded title page and back cover
+# Suitable for spiral / comb binding or digital distribution
+spiral:
+    mkdir -p {{spiral_dir}}
+    typst compile --font-path {{font_path}} main.typ {{spiral_dir}}/thesis-spiral.pdf
+    @echo "-> {{spiral_dir}}/thesis-spiral.pdf"
+
+# Paperback binding
+# Body-only PDF (no embedded covers) + separate book cover spread
+# Suitable for paperback binding distribution
+paperback:
+    #!/usr/bin/env bash
+    set -euo pipefail
+    command -v pdfinfo >/dev/null 2>&1 || {
+        echo "Error: pdfinfo not found."
+        echo "Install poppler-utils: sudo apt install poppler-utils  (Debian/Ubuntu)"
+        echo "                    or: brew install poppler            (macOS)"
+        echo "                    or: sudo pacman -S poppler          (Arch Linux)"
+        exit 1
+    }
+    mkdir -p {{paperback_dir}}
+
+    # Compile body (no title page, no back cover)
+    typst compile --font-path {{font_path}} --input binding=paperback main.typ {{paperback_dir}}/thesis-body.pdf
+    echo "-> {{paperback_dir}}/thesis-body.pdf"
+
+    # Count pages of the body PDF for spine thickness calculation
+    PAGES=$(pdfinfo {{paperback_dir}}/thesis-body.pdf | grep "^Pages:" | awk '{print $2}')
+    SPINE=$(awk "BEGIN {printf \"%.1f\", $PAGES * 0.1}")
+    echo "   $PAGES pages -> spine ≈ ${SPINE}mm"
+
+    # Compile cover spread using the body page count
+    typst compile --font-path {{font_path}} --input page_count="$PAGES" cover.typ {{paperback_dir}}/thesis-cover.pdf
+    echo "-> {{paperback_dir}}/thesis-cover.pdf"
+
+# Library binding
+# Full thesis PDF without student logo, cover borders, or back cover
+# Suitable for Artemis
+library:
+    mkdir -p {{library_dir}}
+    typst compile --font-path {{font_path}} --input binding=library main.typ {{library_dir}}/thesis.pdf
+    @echo "-> {{library_dir}}/thesis.pdf"
+
+# Compile All
+# Compiles the spiral, paperback, and library distributions
+all: spiral paperback library

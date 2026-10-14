@@ -1,0 +1,33 @@
+{
+	# No admin API: nothing on this host needs to reconfigure Caddy at runtime.
+	admin off
+}
+
+{$CHANNEL_DOMAIN} {
+	encode gzip
+
+	@reading {
+		method POST
+		path /process_data
+	}
+
+	handle @reading {
+		request_body {
+			max_size 8KB
+		}
+		reverse_proxy 127.0.0.1:3000 {
+			health_uri /health_check
+		}
+	}
+
+	handle {
+		respond "art tokenization report channel: POST /process_data" 404
+	}
+
+	log {
+		output file /var/log/caddy/channel.log {
+			roll_size 10MiB
+			roll_keep 5
+		}
+	}
+}

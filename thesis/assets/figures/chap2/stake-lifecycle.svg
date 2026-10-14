@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="132.06371mm"
+   height="48.938061mm"
+   viewBox="0 0 499.13843 184.96275"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect24"
+         width="44.999748"
+         height="77.937294"
+         x="251.53429"
+         y="222.73541" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect5-4"
+         width="20"
+         height="200"
+         x="530"
+         y="595" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path21-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path10-0-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-1-5-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path10-0-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-1-5-4-7-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path10-0-0-7-2-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-1-5-4-7-1-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path10-0-0-7-2-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-1-5-4-7-1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path10-0-0-7-2-5-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-1-5-4-7-1-5-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path10-0-0-7-2-5-6-1" />
+    </marker>
+  </defs>
+  <g
+     id="layer4"
+     transform="translate(-167.59386,-505.83661)">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:18.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="165.91389"
+       y="685.6087"
+       id="text10-2"><tspan
+         x="165.91389"
+         y="685.6087"
+         style="font-size:18.6667px;fill:#555555;fill-opacity:1;stroke:none"
+         id="tspan14-3">κατάθεση</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:18.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#6a9e70;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="371.69162"
+       y="685.6087"
+       id="text10-2-7"><tspan
+         x="371.69162"
+         y="685.6087"
+         style="font-size:18.6667px;fill:#6a9e70;fill-opacity:1;stroke:none"
+         id="tspan14-3-1">ανταμοιβές</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:18.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#b8785a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="409.93704"
+       y="518.86597"
+       id="text10-2-7-9"><tspan
+         x="409.93704"
+         y="518.86597"
+         style="font-size:18.6667px;fill:#b8785a;fill-opacity:1;stroke:none"
+         id="tspan14-3-1-6">κίνδυνος slashing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:18.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="631.84808"
+       y="636.06354"
+       id="text10-2-6"><tspan
+         x="631.84808"
+         y="636.06354"
+         style="font-size:18.6667px;fill:#555555;fill-opacity:1;stroke:none"
+         id="tspan14-3-8">t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:18.6667px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+       x="589.22699"
+       y="686.41272"
+       id="text10-2-5"><tspan
+         x="589.22699"
+         y="686.41272"
+         style="font-size:18.6667px;fill:#555555;fill-opacity:1;stroke:none"
+         id="tspan14-3-2">ανάληψη</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:1.89;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-4)"
+       d="M 187.78994,648.07648 H 645.65982"
+       id="path4" />
+    <g
+       id="g4"
+       transform="translate(11.888628,18.989995)">
+      <rect
+         style="fill:#b8c8d4;fill-opacity:1;stroke:#1c2a35;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-3"
+         width="103.91133"
+         height="65.07766"
+         x="189.96797"
+         y="532.62799" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#1c2a35;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+         x="241.58763"
+         y="558.8468"
+         id="text1-7-1"><tspan
+           id="tspan1-5-2"
+           x="241.58763"
+           y="558.8468"
+           style="font-size:16px;fill:#1c2a35;fill-opacity:1;stroke:none;stroke-opacity:1">προθέρμανση</tspan><tspan
+           x="241.58763"
+           y="578.8468"
+           style="font-size:16px;fill:#1c2a35;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="tspan4">(warm-up)</tspan></text>
+    </g>
+    <g
+       id="g4-2"
+       transform="translate(138.81714,18.989995)">
+      <rect
+         style="fill:#c5b8d9;fill-opacity:1;stroke:#24143a;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-3-8"
+         width="167.21132"
+         height="65.077637"
+         x="189.96797"
+         y="532.62799" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#24143a;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+         x="272.71762"
+         y="558.71881"
+         id="text1-7-1-9"><tspan
+           id="tspan1-5-2-7"
+           x="272.71762"
+           y="558.71881"
+           style="font-size:16px;fill:#24143a;fill-opacity:1;stroke:none;stroke-opacity:1">ενεργή επικύρωση</tspan><tspan
+           x="272.71762"
+           y="578.71881"
+           style="font-size:16px;fill:#24143a;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="tspan4-3">(actively validating)</tspan></text>
+    </g>
+    <g
+       id="g4-2-3"
+       transform="translate(329.04564,18.989991)">
+      <rect
+         style="fill:#b5d5b8;fill-opacity:1;stroke:#122a13;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10-3-8-1"
+         width="103.91133"
+         height="65.07766"
+         x="189.96797"
+         y="532.62799" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-size:16px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#122a13;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:none;stroke-opacity:1"
+         x="241.44362"
+         y="559.11884"
+         id="text1-7-1-9-9"><tspan
+           id="tspan1-5-2-7-4"
+           x="241.44362"
+           y="559.11884"
+           style="font-size:16px;fill:#122a13;fill-opacity:1;stroke:none;stroke-opacity:1">αποδέσμευση</tspan><tspan
+           x="241.44362"
+           y="579.11884"
+           style="font-size:16px;fill:#122a13;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="tspan4-3-7">(cool-down)</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide-1-5)"
+       d="M 326.78511,584.1568 H 305.76793"
+       id="path3-3-1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#555555;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide-1-5-4)"
+       d="M 517.01361,584.1568 H 495.99643"
+       id="path3-3-1-6" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#6a9e70;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide-1-5-4-7-1)"
+       d="m 331.5997,681.28735 h 37.49128"
+       id="path3-3-1-6-1-9" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b8785a;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide-1-5-4-7-1-5)"
+       d="M 330.86952,515.56726 H 405.6649"
+       id="path3-3-1-6-1-9-4" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#b8785a;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide-1-5-4-7-1-5-6)"
+       d="M 620.9908,514.57262 H 543.03042"
+       id="path3-3-1-6-1-9-4-9" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#6a9e70;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#ArrowWide-1-5-4-7-1-9)"
+       d="M 494.06218,681.28735 H 456.66841"
+       id="path3-3-1-6-1-9-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:24px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1"
+       x="652.11627"
+       y="649.08447"
+       id="text13-8-4"><tspan
+         id="tspan13-1-9"
+         x="652.11627"
+         y="649.08447"
+         style="font-size:24px">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:24px;font-family:'Libertinus Serif';-inkscape-font-specification:'Libertinus Serif Italic';writing-mode:lr-tb;direction:ltr;fill:#555555;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-dasharray:3.02362, 0.755906;stroke-dashoffset:0;stroke-opacity:1"
+       x="167.48798"
+       y="649.08447"
+       id="text13-8-4-9"><tspan
+         id="tspan13-1-9-2"
+         x="167.48798"
+         y="649.08447"
+         style="font-size:24px">...</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#555555;stroke-width:1.89;stroke-dasharray:none;stroke-opacity:1"
+       d="m 201.8566,632.99982 v 29.54"
+       id="path5" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#555555;stroke-width:1.89;stroke-dasharray:none;stroke-opacity:1"
+       d="m 329.17706,632.99982 v 29.54"
+       id="path5-5" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#555555;stroke-width:1.89;stroke-dasharray:none;stroke-opacity:1"
+       d="m 622.8457,632.99982 v 29.54"
+       id="path5-4" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#555555;stroke-width:1.89;stroke-dasharray:none;stroke-opacity:1"
+       d="m 495.94674,632.99982 v 29.54"
+       id="path5-1" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 201.8566,616.69562 v 16.3042"
+       id="path15" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 329.24691,617.07358 v 16.3042"
+       id="path15-0" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 495.88633,617.07358 v 16.3042"
+       id="path15-4" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 622.81929,616.69562 v 16.3042"
+       id="path15-1" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 328.97409,510.39806 v 40.84197"
+       id="path15-7" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 329.29631,662.53982 v 25.62444"
+       id="path15-7-8" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 495.97313,662.53982 v 25.62444"
+       id="path15-7-8-6" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#909090;stroke-width:1.13386;stroke-dasharray:1.13386, 2.26772;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 622.81485,509.57194 v 40.43728"
+       id="path15-7-9" />
+  </g>
+</svg>

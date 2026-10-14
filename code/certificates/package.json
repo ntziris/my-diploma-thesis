@@ -1,0 +1,13 @@
+{
+  "name": "art-tokenization-certificates",
+  "private": true,
+  "type": "module",
+  "description": "Certificate of authenticity: Typst template and chain data fetcher",
+  "scripts": {
+    "fetch": "node fetch-artwork.mjs",
+    "build": "./build.sh"
+  },
+  "dependencies": {
+    "@mysten/sui": "^2.31.2"
+  }
+}

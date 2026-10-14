@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the diploma thesis when referring to this research."
+type: software
+repository-code: "https://github.com/ntziris/my-diploma-thesis"
+title: "Art Tokenization on Sui"
+authors:
+  - family-names: Tziris
+    given-names: Nikolaos
+preferred-citation:
+  type: thesis
+  title: "Σχεδίαση και Υλοποίηση Αποκεντρωμένης Εφαρμογής για Tokenization Έργων Τέχνης στο Οικοσύστημα του Sui Blockchain"
+  authors:
+    - family-names: Tziris
+      given-names: Nikolaos
+  year: 2026
+  date-published: 2026-09-30
+  institution:
+    name: "National Technical University of Athens"
+  thesis-type: "Diploma thesis"
+  languages:
+    - el
+  url: "https://artemis.ece.ntua.gr/handle/123456789/20365"

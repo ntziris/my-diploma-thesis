@@ -1,0 +1,362 @@
+@import 'tailwindcss';
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+}
+
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('./assets/fonts/NotoSans-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('./assets/fonts/NotoSans-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('./assets/fonts/NotoSans-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('./assets/fonts/NotoSans-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('./assets/fonts/NotoSerif-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('./assets/fonts/NotoSerif-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('./assets/fonts/NotoSerif-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('./assets/fonts/NotoSerif-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Sans Mono';
+  src: url('./assets/fonts/NotoSansMono-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Noto Sans Mono';
+  src: url('./assets/fonts/NotoSansMono-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  :root {
+    --background: 40 30% 97%;
+    --foreground: 30 12% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 30 12% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 30 12% 12%;
+    --primary: 214 100% 21%;
+    --primary-foreground: 40 30% 97%;
+    --secondary: 36 20% 93%;
+    --secondary-foreground: 30 12% 16%;
+    --muted: 36 20% 93%;
+    --muted-foreground: 30 7% 40%;
+    --accent: 214 100% 21%;
+    --accent-foreground: 40 30% 97%;
+    --destructive: 2 66% 42%;
+    --destructive-foreground: 40 30% 97%;
+    --border: 35 14% 86%;
+    --input: 35 14% 80%;
+    --ring: 214 100% 21%;
+    --radius: 0.375rem;
+
+    --status-ok-fg: 150 55% 26%;
+    --status-ok-bg: 148 38% 92%;
+    --status-ok-border: 148 30% 78%;
+    --status-damaged-fg: 28 92% 28%;
+    --status-damaged-bg: 38 92% 92%;
+    --status-damaged-border: 36 70% 76%;
+    --status-destroyed-fg: 2 66% 38%;
+    --status-destroyed-bg: 4 68% 94%;
+    --status-destroyed-border: 4 55% 80%;
+    --status-missing-fg: 2 66% 38%;
+    --status-missing-bg: 4 68% 94%;
+    --status-missing-border: 4 55% 80%;
+  }
+}
+
+@layer base {
+  * {
+    border-color: hsl(var(--border));
+  }
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Noto Sans', system-ui, sans-serif;
+    background-image: url('./assets/gesso-tile.png');
+    background-size: 512px 512px;
+    background-repeat: repeat;
+    background-blend-mode: multiply;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: 'Noto Serif', Georgia, serif;
+  }
+  .font-mono2 {
+    font-family: 'Noto Sans Mono', ui-monospace, monospace;
+  }
+  .micro-label {
+    @apply text-[11px] font-semibold uppercase tracking-[0.14em] text-muted-foreground;
+  }
+
+  .hero-block {
+    animation: hero-float 7s ease-in-out infinite;
+    filter: drop-shadow(0 26px 28px hsl(var(--accent) / 0.13));
+  }
+  .hero-block-shadow {
+    position: absolute;
+    bottom: -1.5rem;
+    left: 50%;
+    width: 58%;
+    height: 2rem;
+    transform: translateX(-50%);
+    background: radial-gradient(ellipse closest-side, hsl(var(--accent) / 0.16), transparent);
+    animation: hero-shadow 7s ease-in-out infinite;
+  }
+  .reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition:
+      opacity 0.6s ease-out,
+      transform 0.6s ease-out;
+  }
+  .reveal-shown {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes hero-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-12px);
+  }
+}
+@keyframes hero-shadow {
+  0%,
+  100% {
+    transform: translateX(-50%) scaleX(1);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(-50%) scaleX(0.86);
+    opacity: 0.65;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-block,
+  .hero-block-shadow {
+    animation: none;
+  }
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+@layer base {
+  :root {
+    --ease-soft: cubic-bezier(0.22, 0.61, 0.36, 1);
+    --motion-fast: 0.15s;
+    --motion-base: 0.22s;
+    --motion-slow: 0.32s;
+  }
+
+  a,
+  button,
+  summary,
+  input,
+  select,
+  textarea,
+  [role='button'] {
+    transition:
+      color var(--motion-fast) var(--ease-soft),
+      background-color var(--motion-fast) var(--ease-soft),
+      border-color var(--motion-fast) var(--ease-soft),
+      opacity var(--motion-fast) var(--ease-soft),
+      box-shadow var(--motion-fast) var(--ease-soft);
+  }
+}
+
+@layer utilities {
+  .page-enter,
+  .pane-enter {
+    animation: enter-up var(--motion-slow) var(--ease-soft) backwards;
+  }
+  .fade-enter {
+    animation: fade-in var(--motion-base) var(--ease-soft) backwards;
+  }
+  .overlay-enter {
+    animation: fade-in var(--motion-fast) var(--ease-soft) both;
+  }
+  .dialog-enter {
+    animation: dialog-in var(--motion-base) var(--ease-soft) both;
+  }
+  .pop-enter {
+    animation: pop-down var(--motion-fast) var(--ease-soft) both;
+  }
+  /* collapsible region: the height animates both ways, unlike a plain show/hide */
+  .collapse-region {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    transition:
+      grid-template-rows var(--motion-slow) var(--ease-soft),
+      opacity var(--motion-base) var(--ease-soft);
+  }
+  .collapse-region > * {
+    min-height: 0;
+    overflow: hidden;
+  }
+  .collapse-region[data-open='true'] {
+    grid-template-rows: 1fr;
+    opacity: 1;
+  }
+  .stagger-enter > * {
+    animation: enter-up var(--motion-slow) var(--ease-soft) backwards;
+  }
+  .stagger-enter > *:nth-child(2) {
+    animation-delay: 45ms;
+  }
+  .stagger-enter > *:nth-child(3) {
+    animation-delay: 90ms;
+  }
+  .stagger-enter > *:nth-child(4) {
+    animation-delay: 135ms;
+  }
+  .stagger-enter > *:nth-child(5) {
+    animation-delay: 180ms;
+  }
+  .stagger-enter > *:nth-child(6) {
+    animation-delay: 225ms;
+  }
+  .stagger-enter > *:nth-child(n + 7) {
+    animation-delay: 270ms;
+  }
+}
+
+@keyframes enter-up {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes dialog-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+@keyframes pop-down {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-enter,
+  .fade-enter,
+  .overlay-enter,
+  .dialog-enter,
+  .pop-enter,
+  .pane-enter,
+  .stagger-enter > * {
+    animation: none;
+  }
+  .collapse-region {
+    transition: none;
+  }
+  a,
+  button,
+  summary,
+  input,
+  select,
+  textarea,
+  [role='button'] {
+    transition: none;
+  }
+}

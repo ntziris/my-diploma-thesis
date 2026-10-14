@@ -1,0 +1,31 @@
+network: testnet
+original_package_id: "0xf99aee9f21493e1590e7e5a9aea6f343a1f381031a04a732724871fc294be799"
+landing_page_oid_b36: "1p3repujoigwcqrk0w4itsxm7hs7xjl4hwgt3t0szn6evad83q"
+
+domain_name_length: 21
+
+b36_domain_resolution: true
+
+bring_your_own_domain: false
+enable_blocklist: false
+enable_allowlist: false
+enable_glob_routing: false
+
+rpc_urls:
+  - url: https://fullnode.testnet.sui.io
+    retries: 2
+    metric: 100
+
+aggregator_urls:
+  - url: https://aggregator.walrus-testnet.walrus.space
+    retries: 3
+    metric: 100
+  - url: https://walrus-testnet-aggregator.nodes.guru
+    retries: 2
+    metric: 200
+  - url: https://walrus-testnet-aggregator.natsai.xyz
+    retries: 2
+    metric: 300
+  - url: https://walrus-agg-testnet.chainode.tech:9002
+    retries: 2
+    metric: 400

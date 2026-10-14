@@ -1,0 +1,27 @@
+services:
+  portal:
+    image: mysten/walrus-sites-server-portal:mainnet-v2.12.0
+    container_name: walrus-portal
+    restart: unless-stopped
+    environment:
+      PORTAL_CONFIG: /etc/walrus-sites/portal-config.yaml
+    volumes:
+      - ./portal-config.yaml:/etc/walrus-sites/portal-config.yaml:ro
+    expose:
+      - "3000"
+  caddy:
+    image: caddy:2
+    container_name: caddy
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      DOMAIN: ${DOMAIN:?set DOMAIN=art-tokenization.duckdns.org}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+volumes:
+  caddy_data:
+  caddy_config:

@@ -1,0 +1,48 @@
+// Copyright (c), Mysten Labs, Inc.
+// SPDX-License-Identifier: Apache-2.0
+
+use anyhow::Result;
+use axum::{routing::get, routing::post, Router};
+use fastcrypto::{ed25519::Ed25519KeyPair, traits::KeyPair};
+use nautilus_server::app::process_data;
+use nautilus_server::common::{get_attestation, health_check};
+use nautilus_server::AppState;
+use std::sync::Arc;
+use tower_http::cors::{Any, CorsLayer};
+use tracing::info;
+
+#[tokio::main]
+async fn main() -> Result<()> {
+    let eph_kp = Ed25519KeyPair::generate(&mut rand::thread_rng());
+
+    // The enclave calls nothing and holds no secret: no API key.
+    let state = Arc::new(AppState { eph_kp, api_key: String::new() });
+
+    // Any origin: the endpoints are read-only or authenticated by a device signature.
+    let cors = CorsLayer::new().allow_origin(Any).allow_methods(Any).allow_headers(Any);
+
+    let router = Router::new()
+        .route("/", get(ping))
+        .route("/get_attestation", get(get_attestation))
+        .route("/process_data", post(process_data))
+        .route("/health_check", get(health_check));
+
+    #[cfg(feature = "art-tokenization")]
+    let router = router
+        .route("/close_window", post(nautilus_server::app::close_window_handler))
+        .route("/status", get(nautilus_server::app::status));
+    #[cfg(feature = "art-tokenization")]
+    nautilus_server::app::spawn_scheduler(state.clone()).await?;
+
+    let app = router.with_state(state).layer(cors);
+
+    let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await?;
+    info!("listening on {}", listener.local_addr().unwrap());
+    axum::serve(listener, app.into_make_service())
+        .await
+        .map_err(|e| anyhow::anyhow!("Server error: {e}"))
+}
+
+async fn ping() -> &'static str {
+    "Pong!"
+}

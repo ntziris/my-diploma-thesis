@@ -1,0 +1,142 @@
+[
+  {
+    "number": 1,
+    "title": "Connect a Web3 wallet",
+    "description": "Connect Slush and choose an application role.",
+    "file": "01-connect-wallet.webm",
+    "source_file": "1. Σύνδεση με Web3 Wallet.webm",
+    "duration_seconds": 25.7,
+    "size_bytes": 2639037,
+    "sha256": "2fce1b4fb87cfe265429c80ee1a41aba869c7015760b1b8667528f39b027a99f"
+  },
+  {
+    "number": 2,
+    "title": "Update supervisory parameters",
+    "description": "Change the royalty setting through the administration interface.",
+    "file": "02-update-parameters.webm",
+    "source_file": "2. Αλλαγή εποπτικών παραμέτρων.webm",
+    "duration_seconds": 20.333333,
+    "size_bytes": 1855391,
+    "sha256": "43336453ce6d4e291bfc09e0abe66d0ce5d56fd83c08d38570a033fec0c33fc9"
+  },
+  {
+    "number": 3,
+    "title": "Issue an artwork",
+    "description": "Upload artwork files, encrypt the high-resolution image and issue the artwork.",
+    "file": "03-issue-artwork.webm",
+    "source_file": "3. Έκδοση νέου έργου.webm",
+    "duration_seconds": 65.833,
+    "size_bytes": 4967521,
+    "sha256": "33f29eebf518cc232eddeb328bf284e3ff377b910acc6465593194f118094c2b"
+  },
+  {
+    "number": 4,
+    "title": "Record gallery custody",
+    "description": "Confirm receipt of the physical artwork at the gallery.",
+    "file": "04-record-custody.webm",
+    "source_file": "4. Καταχώριση παραλαβής.webm",
+    "duration_seconds": 32.0,
+    "size_bytes": 2334580,
+    "sha256": "c8dcbecc6c83a20b9e3b894f5053c35a4b3fdae1e869392d68a1d3968472072a"
+  },
+  {
+    "number": 5,
+    "title": "Issue a certificate of authenticity",
+    "description": "Attach gallery documentation and issue the certificate.",
+    "file": "05-issue-certificate.webm",
+    "source_file": "5. Έκδοση πιστοποιητικού γνησιότητας.webm",
+    "duration_seconds": 70.133,
+    "size_bytes": 29475829,
+    "sha256": "26f9aac2f9a597cb50fd6a01c2c09749f12d66caac1f1472bb91041bbc622b37"
+  },
+  {
+    "number": 6,
+    "title": "Create fractional ownership",
+    "description": "Split ownership of a certified artwork into fractions.",
+    "file": "06-fractionalize-artwork.webm",
+    "source_file": "6. Κλασματοποίηση.webm",
+    "duration_seconds": 21.1,
+    "size_bytes": 1487742,
+    "sha256": "57a495360c22672eac802b9c0b9afaa10b5c0a244ebb9b9636da013d7a5709e6"
+  },
+  {
+    "number": 7,
+    "title": "List fractions for sale",
+    "description": "Create a marketplace listing with a quantity and price.",
+    "file": "07-list-fractions.webm",
+    "source_file": "7. Πώληση κλασμάτων.webm",
+    "duration_seconds": 25.233333,
+    "size_bytes": 1531185,
+    "sha256": "8774647d77e0877dab8c7bb802eefbbbc593da18f0cc4a0b9b891df7535b8c5b"
+  },
+  {
+    "number": 8,
+    "title": "Buy fractions and pay the artist royalty",
+    "description": "Complete a purchase and inspect the payment breakdown.",
+    "file": "08-buy-fractions-royalty.webm",
+    "source_file": "8. Αγορά κλασμάτων, πληρωμή royalty.webm",
+    "duration_seconds": 42.433,
+    "size_bytes": 3861907,
+    "sha256": "c6bd604f6c99ebdf990c774190bc791f9d4b25c4f01ebfa4cd7c8ff36e7ea27f"
+  },
+  {
+    "number": 9,
+    "title": "View a fraction in a Web3 wallet",
+    "description": "Inspect the fraction object through the wallet interface.",
+    "file": "09-wallet-fraction.webm",
+    "source_file": "9. Προβολή κλάσματος στο Web3 Wallet.webm",
+    "duration_seconds": 13.666,
+    "size_bytes": 1132976,
+    "sha256": "a5f4fef9677f33f09ea1718adba7ddcae5d41ee94eb63fcd1fa31a3c5e44c51e"
+  },
+  {
+    "number": 10,
+    "title": "Access the high-resolution image with Seal",
+    "description": "Authorize access and decrypt the artwork image in the browser.",
+    "file": "10-seal-access.webm",
+    "source_file": "10. Πρόσβαση στην εικόνα υψηλής ανάλυσης με Seal.webm",
+    "duration_seconds": 21.3,
+    "size_bytes": 2595690,
+    "sha256": "e1d0d0ccb1d8a00997312f7ee1fae77a03018a883b4ea1775036c00f530169ea"
+  },
+  {
+    "number": 11,
+    "title": "Register an external source",
+    "description": "Create a source in the simulator and register it through the administration interface.",
+    "file": "11-register-source.webm",
+    "source_file": "11. Ρύθμιση νέας εξωτερικής πηγής.webm",
+    "duration_seconds": 77.266666,
+    "size_bytes": 2949330,
+    "sha256": "bdb66427370493ccfefe6eb192b94fc0a3b47079b76797dab1694af8c782de33"
+  },
+  {
+    "number": 12,
+    "title": "Submit an external condition report",
+    "description": "Send source readings and inspect the resulting on-chain report.",
+    "file": "12-submit-condition-report.webm",
+    "source_file": "12. Αναφορά κατάστασης από την εξωτερική πηγή.webm",
+    "duration_seconds": 48.8,
+    "size_bytes": 31898754,
+    "sha256": "0892b8c9d53353479ded9139e0216179f7db387c08ad2933224e23794c416215"
+  },
+  {
+    "number": 13,
+    "title": "Declare an artwork lost or destroyed",
+    "description": "Record the gallery declaration and inspect the final artwork state.",
+    "file": "13-declare-loss.webm",
+    "source_file": "13. Δήλωση απώλειας έργου.webm",
+    "duration_seconds": 125.408,
+    "size_bytes": 11723255,
+    "sha256": "30af1bdc36d52db7de826f5d4c86c9eeb22be2eb7abf9b3ff12721ee9e1567e5"
+  },
+  {
+    "number": 14,
+    "title": "Burn a fraction of a lost artwork",
+    "description": "Remove a fraction after the artwork has been declared lost.",
+    "file": "14-burn-lost-fraction.webm",
+    "source_file": "14. Διαγραφή κλάσματος κατεστραμμένου έργου.webm",
+    "duration_seconds": 54.9,
+    "size_bytes": 3785194,
+    "sha256": "70a442daf3047b81379aaf8df43f8e8238a5fe550a4d2e22106c3b97a6329730"
+  }
+]

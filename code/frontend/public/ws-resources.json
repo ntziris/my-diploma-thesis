@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/*": "/index.html"
+  },
+  "site_name": "art-tokenization",
+  "object_id": "0xfa64e75d1e28edbf9d38ae8e63b57721ac92385d812c01b4fe99c8489a6cc89b"
+}

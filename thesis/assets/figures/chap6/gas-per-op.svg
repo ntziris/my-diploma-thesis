@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 516" width="880" height="516">
+<line x1="176.0" y1="46" x2="176.0" y2="468" stroke="#e3e6ea" stroke-width="1"/>
+<text x="176.0" y="488" font-family="sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">0</text>
+<line x1="310.8" y1="46" x2="310.8" y2="468" stroke="#e3e6ea" stroke-width="1"/>
+<text x="310.8" y="488" font-family="sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">0,05</text>
+<line x1="445.5" y1="46" x2="445.5" y2="468" stroke="#e3e6ea" stroke-width="1"/>
+<text x="445.5" y="488" font-family="sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">0,10</text>
+<line x1="580.3" y1="46" x2="580.3" y2="468" stroke="#e3e6ea" stroke-width="1"/>
+<text x="580.3" y="488" font-family="sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">0,15</text>
+<line x1="715.1" y1="46" x2="715.1" y2="468" stroke="#e3e6ea" stroke-width="1"/>
+<text x="715.1" y="488" font-family="sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">0,20</text>
+<text x="480.0" y="508" font-family="sans-serif" font-size="11" fill="#6b7280" text-anchor="middle">SUI</text>
+<rect x="176" y="18" width="12" height="12" rx="2" fill="#1f5fa8"/>
+<text x="194" y="28.5" font-family="sans-serif" font-size="12" fill="#1f2933">υπολογισμός</text>
+<rect x="299.2" y="18" width="12" height="12" rx="2" fill="#a62626"/>
+<text x="317.2" y="28.5" font-family="sans-serif" font-size="12" fill="#1f2933">αποθήκευση</text>
+<text x="164" y="68.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Έκδοση έργου</text>
+<rect x="176" y="56" width="13.0" height="17" fill="#1f5fa8"/>
+<path d="M191.0,56 H780.0 A4.0,4.0 0 0 1 784.0,60.0 V69.0 A4.0,4.0 0 0 1 780.0,73 H191.0 Z" fill="#a62626"/>
+<text x="794.0" y="68.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0675</text>
+<text x="164" y="98.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Έκδοση πιστοποιητικού</text>
+<rect x="176" y="86" width="12.4" height="17" fill="#1f5fa8"/>
+<path d="M190.4,86 H608.7 A4.0,4.0 0 0 1 612.7,90.0 V99.0 A4.0,4.0 0 0 1 608.7,103 H190.4 Z" fill="#a62626"/>
+<text x="622.7" y="98.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0171</text>
+<text x="164" y="128.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Καταχώριση παραλαβής</text>
+<rect x="176" y="116" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,116 H275.1 A4.0,4.0 0 0 1 279.1,120.0 V129.0 A4.0,4.0 0 0 1 275.1,133 H180.7 Z" fill="#a62626"/>
+<text x="289.1" y="128.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0110</text>
+<text x="164" y="158.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Δημιουργία αγγελίας</text>
+<rect x="176" y="146" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,146 H241.2 A4.0,4.0 0 0 1 245.2,150.0 V159.0 A4.0,4.0 0 0 1 241.2,163 H180.7 Z" fill="#a62626"/>
+<text x="255.2" y="158.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0094</text>
+<text x="164" y="188.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Κλασματοποίηση</text>
+<rect x="176" y="176" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,176 H270.5 A4.0,4.0 0 0 1 274.5,180.0 V189.0 A4.0,4.0 0 0 1 270.5,193 H180.7 Z" fill="#a62626"/>
+<text x="284.5" y="188.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0080</text>
+<text x="164" y="218.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Αγορά, μεταπώληση</text>
+<rect x="176" y="206" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,206 H240.0 A4.0,4.0 0 0 1 244.0,210.0 V219.0 A4.0,4.0 0 0 1 240.0,223 H180.7 Z" fill="#a62626"/>
+<text x="254.0" y="218.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0075</text>
+<text x="164" y="248.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Αγορά, πρωτογενής</text>
+<rect x="176" y="236" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,236 H232.8 A4.0,4.0 0 0 1 236.8,240.0 V249.0 A4.0,4.0 0 0 1 232.8,253 H180.7 Z" fill="#a62626"/>
+<text x="246.8" y="248.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0075</text>
+<text x="164" y="278.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Ανάθεση νέας γκαλερί</text>
+<rect x="176" y="266" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,266 H256.3 A4.0,4.0 0 0 1 260.3,270.0 V279.0 A4.0,4.0 0 0 1 256.3,283 H180.7 Z" fill="#a62626"/>
+<text x="270.3" y="278.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0044</text>
+<text x="164" y="308.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Δήλωση απώλειας</text>
+<rect x="176" y="296" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,296 H263.7 A4.0,4.0 0 0 1 267.7,300.0 V309.0 A4.0,4.0 0 0 1 263.7,313 H180.7 Z" fill="#a62626"/>
+<text x="277.7" y="308.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0035</text>
+<text x="164" y="338.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Ακύρωση έκδοσης</text>
+<rect x="176" y="326" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,326 H248.5 A4.0,4.0 0 0 1 252.5,330.0 V339.0 A4.0,4.0 0 0 1 248.5,343 H180.7 Z" fill="#a62626"/>
+<text x="262.5" y="338.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0034</text>
+<text x="164" y="368.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Ακύρωση αγγελίας</text>
+<rect x="176" y="356" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,356 H232.4 A4.0,4.0 0 0 1 236.4,360.0 V369.0 A4.0,4.0 0 0 1 232.4,373 H180.7 Z" fill="#a62626"/>
+<text x="246.4" y="368.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0023</text>
+<text x="164" y="398.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Ανάκληση από το μητρώο</text>
+<rect x="176" y="386" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,386 H193.6 A4.0,4.0 0 0 1 197.6,390.0 V399.0 A4.0,4.0 0 0 1 193.6,403 H180.7 Z" fill="#a62626"/>
+<text x="207.6" y="398.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0011</text>
+<text x="164" y="428.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Εγγραφή στο μητρώο</text>
+<rect x="176" y="416" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,416 H193.4 A4.0,4.0 0 0 1 197.4,420.0 V429.0 A4.0,4.0 0 0 1 193.4,433 H180.7 Z" fill="#a62626"/>
+<text x="207.4" y="428.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0010</text>
+<text x="164" y="458.7" font-family="sans-serif" font-size="12" fill="#1f2933" text-anchor="end">Ενοποίηση κλασμάτων</text>
+<rect x="176" y="446" width="2.7" height="17" fill="#1f5fa8"/>
+<path d="M180.7,446 H260.9 A4.0,4.0 0 0 1 264.9,450.0 V459.0 A4.0,4.0 0 0 1 260.9,463 H180.7 Z" fill="#a62626"/>
+<text x="274.9" y="458.7" font-family="sans-serif" font-size="11" fill="#6b7280">καθαρό 0,0006</text>
+</svg>

@@ -1,0 +1,69 @@
+{
+  "network": "testnet",
+  "publishDigest": "4QQx1kyYrWETrUCGbqvZj5WsdicMaxBhqpCpvszeYfef",
+  "publishedAt": "1789203877580",
+  "packageId": "0x3da1733b1b551e8b55851cd82c06ef02acb970e8996988153ba8db1c271d2b5d",
+  "catalog": "0x7f144113c432ab823a6e834af298bac86ee9c23fd59abb06d86a4561e2c9da70",
+  "galleryRegistry": "0x0aa93294d5870088db1c04facd91e2098c6f4cbf57f1df41d3efd0e3f22c9996",
+  "sourceRegistry": "0xf66e8467a450ac96f5be04c386eb4073127fb9c343e3176150b45ee42b5ca73b",
+  "publisher": "0x02af20db7a4c0f00429154092c6a51f8e7ae5f066c032d84752dc6791b4ff438",
+  "adminCap": "0x764efcb248aa000091ac6e768521845d5068950d7513fea4f9a29c7929573b74",
+  "upgradeCap": "0x93cfa4b4dde6a73df4f9365551a161fd407016c95ea0f06b861e4b1167a0f093",
+  "params": "0xb534111b62bcdd8e4b5b868e26f7e704d4db556438079ecbb641f292e84ca653",
+  "stats": "0xa5d013c456c22c825d2a0625a3122ed682858e79641145fd89296520d99de43c",
+  "channelPolicy": "0x28754cf524f16e108d58a2873f504dc9660d11bce9c422341d945e479437533d",
+  "channelStats": "0x3f63799483e8b3891b429490f6e5540d08a22dc3afa142cc62ad0184a6a1d814",
+  "authority": "0x72c920e112db42c3bc5e0280b4421072370f0ee8086f828f20f268e2e5ee3b35",
+  "addresses": {
+    "authority": "0x72c920e112db42c3bc5e0280b4421072370f0ee8086f828f20f268e2e5ee3b35",
+    "gallery-a": "0xf009422b2ae0b6d36878ce50a7a54d95fef8707f1163ec06bf02e6d2366e18e2",
+    "gallery-b": "0x8609c3aa2dece9dccb84d8769633471994a6b9e568701d1af9c95c9122c517e4",
+    "artist": "0xa667981c08b5cb4b587b528a791864c09446e0828eaa2d9ef5898c74daed0ede",
+    "investor-1": "0xe55c67563dd88f844f8b303b32b1ea3c20eb08a082ea4a05d7733c8a4d0a412c",
+    "investor-2": "0x8753811c98cbfd3855bd2c583b1bd76cd1306e4794af6e76828d23f3d1faf761",
+    "enclave-payer": "0xe81f5dbf45755de8d435ecea21e0b3a4427fb32a04ae39c90295adb40eee4313",
+    "relayer-b": "0x81754811eaa20a6afaa905cabb00b6f825e27c7fd449a5b816eb5223b78544fa"
+  },
+  "devices": {
+    "inspector": "0x72b74439829388b086cc6eca8fdc2f76536e44e5f80fef54ea6d17c26c004dcd",
+    "sensor-hall-3": "0xcd705ac6d79bbd70943a6d8b6c07c9349d6f1a8f9f5eb32b137fb5f128b199d1"
+  },
+  "enclavePcrs": {
+    "builtAt": "2026-09-12T01:36:17",
+    "eifSha256": "8968dc1ab6b8d54b923060c764ed750aa4f4cacc21bc92be16d4fde033568594",
+    "eifBytes": 110638200,
+    "PCR0": "e5f5da514cd65d3e06434d33fc81fb8def2413ea85b7fcd5ab8c4df82adeca8a33c066dad177081917ab9f41b5669b0a",
+    "PCR1": "e5f5da514cd65d3e06434d33fc81fb8def2413ea85b7fcd5ab8c4df82adeca8a33c066dad177081917ab9f41b5669b0a",
+    "PCR2": "21b9efbc184807662e966d34f390821309eeac6802309798826296bf3e8bec7c10edb30948c90ba67310f7b964fc500a"
+  },
+  "latestPackageId": "0x3da1733b1b551e8b55851cd82c06ef02acb970e8996988153ba8db1c271d2b5d",
+  "reportPackageId": "0x3da1733b1b551e8b55851cd82c06ef02acb970e8996988153ba8db1c271d2b5d",
+  "setupDigests": {
+    "registries": "6jLUDGj9SDoudi5CTngAD2KQXnestqPKfchyb8txD8LZ",
+    "display": "83H827Mm5yDyXTXfEdZQu5cT7ag7BMu1XeDpFuFoeUW"
+  },
+  "displayArtwork": "0x022b2d34e80603034d28d1b72686ff3bd63dcffb5be63afdf29ec52eae043719",
+  "displayFraction": "0x46a2123e254dab6aeb6f858e6865b2c66543b4dbe93281980458023fed3e80e7",
+  "enclaveConfig": "0x181ea3578f4f2f2337956f84050f2454150e5e4a112832c747686cdf51d85601",
+  "enclaveCap": "0xd9831d67085aba53cbe98d3891c5fe40c9d8737aca245b848d4b36c2493a99ab",
+  "enclaveSetupDigests": {
+    "config": "H9G3jMfQtM2CpLjEGigNLzeNA5qoo8dJhLVJVbVxQMMM",
+    "pcrsFor": "e5f5da514cd65d3e06434d33fc81fb8def2413ea85b7fcd5ab8c4df82adeca8a33c066dad177081917ab9f41b5669b0a",
+    "accept": "H4idtcujiokh2L5SJmVjGhj5uoWBEXSn7FfcaPBznZe9",
+    "endpoint": "9yUKRwucZWS8YCAZLJFSiu4V3Py27MhwFb2HW2yQm6rV"
+  },
+  "enclave": "0xe6a1b77a1b22bce0447191ebaa5da79ca895ee310110188b035266e980085a7e",
+  "enclavePk": "88e38e9bea1852d75f19dabec305338c6096198aba40fc70428b1d8b8e237e7c",
+  "enclaveAddress": "0x816547fd98e2dc46ce6fc3676fe0087bf72e3e578758b431d9c9e2f6dfb92aa4",
+  "enclavePayer": "lent wallet 0xe81f5dbf45755de8d435ecea21e0b3a4427fb32a04ae39c90295adb40eee4313",
+  "enclaveRegisteredBy": "9HPemYsoFA4TAGpqwtt11r3NXLtLnUdu2Mw1mHGocXPv",
+  "acceptedEnclave": "0xe6a1b77a1b22bce0447191ebaa5da79ca895ee310110188b035266e980085a7e",
+  "channelEndpoint": "https://art-channel.duckdns.org",
+  "walrusSite": {
+    "objectId": "0xfa64e75d1e28edbf9d38ae8e63b57721ac92385d812c01b4fe99c8489a6cc89b",
+    "b36": "68o2z06ft81u6u2ts0291apaqo6tz85996f5nfszxvkj8dh9qz",
+    "siteName": "art-tokenization",
+    "epochs": 30,
+    "publishedAt": "2026-09-19T05:56:46Z"
+  }
+}

@@ -1,0 +1,19 @@
+[Unit]
+Description=Nautilus enclave and its vsock bridge
+Documentation=https://art-tokenization.duckdns.org
+Requires=nitro-enclaves-allocator.service
+After=nitro-enclaves-allocator.service network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/ec2-user
+ExecStart=/usr/local/bin/nautilus-enclave.sh
+ExecStop=/usr/bin/nitro-cli terminate-enclave --all
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
